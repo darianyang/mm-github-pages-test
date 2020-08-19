@@ -3,7 +3,7 @@ permalink: /people/
 title: The Chong Lab Research Group
 layout: splash
 lillian:
-  - image_path: /images/people/lillian.jpg
+  - image_path: /images/people/lillian.png
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "**Associate Professor, Department of Chemistry**<br>
@@ -51,7 +51,7 @@ current_group:
 
 ## Current Group Members
 
-{% include feature_row id="current_grads" class="full" %}
+{% include feature_row id="current_group" class="full" %}
 
 ## Group Alumni
 
