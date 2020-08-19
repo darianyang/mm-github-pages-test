@@ -1,13 +1,60 @@
 ---
 permalink: /people/
-title: "People"
+title: The Chong Lab Research Group
+layout: splash
+lillian:
+  - image_path: /images/people/lillian.jpg
+    alt: "Lillian Chong"
+    title: "Lillian Chong"
+    excerpt: "**Associate Professor, Department of Chemistry**<br>
+    **Affiliated Faculty, CMU-Pitt Molecular Biophysics/Structural Biology Program**<br>
+    **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
+    Tel: 412-624-6026
+    ltchong@pitt.edu
+    "
+current_group:
+  - image_path: /images/people/anthony.png
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
+  - image_path: /images/people/anthony.jpg
+    alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "Description"
 ---
 
-PI:
+{% include feature_row id="lillian" type="left" %}
 
-Current Group:
+## Current Group Members
 
-Group Alumni:
+{% include feature_row id="current_grads" class="full" %}
+
+## Group Alumni
+
 Research Staff
 
 
@@ -85,4 +132,3 @@ High School Student
 
 
 Natalia Hajlasz (2014-2017), Regeneron STS 2017 Finalist, undergraduate at Harvard.
-
