@@ -1,11 +1,9 @@
 ---
 permalink: /people/
 title: The Chong Lab Research Group
-layout: splash
+#layout: splash
 lillian:
-#  - image_path: /images/people/lillian.png
-    - image_tag("lillian.png", size: "2x3", alt: "Edit Entry")
-    # => <img src=" /images/people/lillian.png" width="2" height="3" alt="Edit Entry" />
+  - image_path: /images/people/lillian.png
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "**Associate Professor, Department of Chemistry**<br>
