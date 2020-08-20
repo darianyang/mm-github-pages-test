@@ -28,7 +28,7 @@ current_group:
     excerpt: "**Chemistry Graduate Student**<br>
     jml230 AT pitt DOT edu
     "
-  - image_path: /images/DTY.jpg
+  - image_path: /images/people/DTY.jpg
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "**Molecular Biophysics and Structural Biology Ph.D Student**<br>
