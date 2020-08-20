@@ -4,8 +4,8 @@ title: The Chong Lab Research Group
 #layout: splash
 #layout: single
 #classes: wide
-header:
-  image: /images/people/Group2020.jpg
+#header:
+#  image: /images/people/Group2020.jpg
 lillian:
   - image_path: /images/people/LTC.png
     alt: "Lillian Chong"
