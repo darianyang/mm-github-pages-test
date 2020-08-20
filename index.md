@@ -5,7 +5,7 @@ share: true
 related: false
 ---
 
-##Department of Chemistry at the University of Pittsburgh
+## Department of Chemistry at the University of Pittsburgh
 
 {% include figure image_path="/images/people/Group2020.jpg" alt="Chong Research Group" %}
 
