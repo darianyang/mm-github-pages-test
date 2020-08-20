@@ -2,7 +2,8 @@
 permalink: /people/
 title: The Chong Lab Research Group
 #layout: splash
-layout: single
+#layout: single
+classes: wide
 header:
   image: /images/people/Group2020.jpg
 lillian:
