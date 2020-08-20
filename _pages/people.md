@@ -22,45 +22,54 @@ lillian:
 current_group:
   - image_path: /images/people/ATB.png
     alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "**Chemistry Graduate Student**<br>
+    excerpt: "
+    **Anthony Bogetti** <br>
+    **Chemistry Graduate Student**<br>
     atb43 AT pitt DOT edu
     "
   - image_path: /images/people/JML.png
     alt: "Jeremy Leung"
-    title: "Jeremy Leung"
-    excerpt: "**Chemistry Graduate Student**<br>
+    excerpt: "
+    **Jeremy Leung**<br>
+    **Chemistry Graduate Student**<br>
     jml230 AT pitt DOT edu
     "
   - image_path: /images/people/DTY.jpg
     alt: "Darian Yang"
-    title: "Darian Yang"
-    excerpt: "**Molecular Biophysics and Structural Biology Ph.D Student**<br>
+
+    excerpt: "
+    **Darian Yang**<br>
+    **Molecular Biophysics and Structural Biology Ph.D Student**<br>
     dty7 AT pitt DOT edu
     "
   - image_path: /images/people/HEP.png
     alt: "Hannah Piston"
-    title: "Hannah Piston"
-    excerpt: "**Chemistry Graduate**<br>
+    excerpt: "
+    **Hannah Piston**<br>
+    **Chemistry Graduate**<br>
     hep32 AT pitt DOT edu
     "
   - image_path: /images/people/POH.png
     alt: "Page Harrison"
-    title: "Page Harrison"
-    excerpt: "**Phys./Comp. Sci. Undergrad.**<br>
+    excerpt: "
+    **Page Harrison**<br>
+    **Phys./Comp. Sci. Undergrad.**<br>
     poh8 AT pitt DOT edu
     "
   - image_path: /images/people/PAT.png
     alt: "Paul Torrillo"
-    title: "Paul Torrillo"
-    excerpt: "**Math/Biology Undergraduate**<br>
+    excerpt: "
+    **Paul Torrillo** <br>
+    **Math/Biology Undergraduate**<br>
     pat53 AT pitt DOT edu
     "
   - image_path: /images/people/KFW.png
     alt: "Kim Wong"
-    title: "Kim Wong"
-    excerpt: "**CRC Programming Consultant**<br>
-    kimwong AT pitt DOT edu"
+    excerpt: "
+    **Kim Wong**<br>
+    **CRC Programming Consultant**<br>
+    kimwong AT pitt DOT edu
+    "
 ---
 
 {% include feature_row id="lillian" type="left" %}
