@@ -2,6 +2,8 @@
 permalink: /people/
 title: The Chong Lab Research Group
 #layout: splash
+header:
+  image: /images/Group2020.jpg
 lillian:
   - image_path: /images/people/LTC.png
     alt: "Lillian Chong"
@@ -57,15 +59,14 @@ current_group:
 ---
 
 {% include feature_row id="lillian" type="left" %}
-
 # Current Group Members
 
 {% include feature_row id="current_group" class="full" %}
 
 # Group Alumni
-
 ## Research Staff
 Alex DeGrave (2017-2018), now an MD/PhD student at U. Washington.  
+
 
 ## Graduate Students
 
