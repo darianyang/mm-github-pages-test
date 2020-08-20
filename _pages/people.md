@@ -3,47 +3,45 @@ permalink: /people/
 title: The Chong Lab Research Group
 #layout: splash
 lillian:
-  - image_path: /images/people/lillian.png
+  - image_path: /images/people/LTC.png
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "**Associate Professor, Department of Chemistry**<br>
     **Affiliated Faculty, CMU-Pitt Molecular Biophysics/Structural Biology Program**<br>
     **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
-    Tel: 412-624-6026
-    ltchong@pitt.edu
+    Tel: 412-624-6026 | 
+    ltchong AT pitt DOT edu
     "
 current_group:
-  - image_path: /images/people/anthony.png
+  - image_path: /images/people/ATB.png
     alt: "Anthony Bogetti"
+    title: "Anthony Bogetti"
+    excerpt: "**Chemistry Graduate Student**<br>
+    atb43 AT pitt DOT edu
+    "
+  - image_path: /images/people/JML.png
+    alt: "Jeremy Leung"
+    title: "Jeremy Leung"
+    excerpt: "Description"
+  - image_path: /images/bio-photo.jpg
+    alt: "Darian Yang"
+    title: "Darian Yang"
+    excerpt: "Description"
+  - image_path: /images/people/POH.png
+    alt: "Page Harrison"
+    title: "Page Harrison"
+    excerpt: "Description"
+  - image_path: /images/people/HEP.png
+    alt: "Hannah Piston"
+    title: "Hannah Piston"
+    excerpt: "Description"
+  - image_path: /images/people/PAT.png
+    alt: "Paul Torrillo"
     title: "Anthony Bogetti"
     excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
-    excerpt: "Description"
-  - image_path: /images/people/anthony.jpg
-    alt: "Anthony Bogetti"
-    title: "Anthony Bogetti"
+  - image_path: /images/people/KFW.png
+    alt: "Kim Wong"
+    title: "Kim Wong"
     excerpt: "Description"
 ---
 
