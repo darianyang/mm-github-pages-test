@@ -85,6 +85,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ltchong"
 
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 defaults:
   # _posts
   - scope:
