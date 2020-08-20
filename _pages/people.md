@@ -15,7 +15,9 @@ lillian:
     **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
 
     Tel: 412-624-6026<br>
-    ltchong AT pitt DOT edu
+    ltchong AT pitt DOT edu<br>
+
+    [CV](/images/LTCcvShort.pdf)
     "
 current_group:
   - image_path: /images/people/ATB.png
