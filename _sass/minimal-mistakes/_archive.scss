@@ -88,7 +88,8 @@
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
-  border: 2px solid black;
+  border: 1px solid rgb;
+  box-shadow: $box-shadow;
   overflow: hidden;
 
   img {
