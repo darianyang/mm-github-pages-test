@@ -7,7 +7,7 @@ title: The Chong Lab Research Group
 #header:
 #image: /assets/images/people/Group2020.jpg
 lillian:
-  - image_path: /assets/images/people/LTC.png
+  - image_path: /assets/images/people/LTC.jpg
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "
@@ -20,7 +20,7 @@ lillian:
     [CV](/assets/pdf/LTCcvShort.pdf)
     "
 current_group:
-  - image_path: /assets/images/people/ATB.png
+  - image_path: /assets/images/people/ATB.jpg
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
     excerpt: "
@@ -41,21 +41,21 @@ current_group:
     **Molecular Biophysics and Structural Biology Ph.D Student**<br>
     dty7 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/HEP.png
+  - image_path: /assets/images/people/HEP.jpg
     alt: "Hannah Piston"
     title: "Hannah Piston"
     excerpt: "
     **Chemistry Graduate**<br>
     hep32 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/POH.png
+  - image_path: /assets/images/people/POH.jpg
     alt: "Page Harrison"
     title: "Page Harrison"
     excerpt: "
     **Phys./Comp. Sci. Undergrad.**<br>
     poh8 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/PAT.png
+  - image_path: /assets/images/people/PAT.jpg
     alt: "Paul Torrillo"
     title: "Paul Torrillo"
     excerpt: "
