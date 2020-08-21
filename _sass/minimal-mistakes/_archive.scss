@@ -324,6 +324,20 @@
         width: span(7 of 12);
       }
     }
+
+        @include breakpoint($) {
+      .archive__item-teaser {
+        float: left;
+        width: span(5 of 12);
+      }
+
+      .archive__item-body {
+        float: right;
+        padding-left: gutter(0.5 of 12);
+        padding-right: gutter(1 of 12);
+        width: span(10 of 12);
+      }
+    }
   }
 
   &--right {
@@ -362,7 +376,7 @@
 
       .archive__item-body {
         float: left;
-        width: span(7 of 12);
+        width: span(10 of 12);
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
       }
@@ -406,7 +420,7 @@
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        width: span(10 of 12);
       }
     }
   }
