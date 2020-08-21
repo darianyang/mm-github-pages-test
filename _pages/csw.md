@@ -1,7 +1,7 @@
 ---
 permalink: /csw/
 title: "CSW"
-finale:
+gallery:
   - image_path: /assets/images/csw/shapeimage_2.png
     alt: "Photo 1"
   - image_path: /assets/images/csw/shapeimage_3.png
@@ -24,4 +24,4 @@ Each summer, the Workshop publishes selected works by the Writers in Residence i
 
 
 ### Grand Finale of 2019 Workshop
-{% include finale caption="Photos by Heather Kresge" %}
+{% include gallery caption="Photos by Heather Kresge" %}
