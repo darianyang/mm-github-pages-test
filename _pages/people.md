@@ -62,7 +62,7 @@ current_group:
     **Math/Biology Undergraduate**<br>
     pat53 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/KFW.png
+  - image_path: /assets/images/people/KFW.jpg
     alt: "Kim Wong"
     title: "Kim Wong"
     excerpt: "
