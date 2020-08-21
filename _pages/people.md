@@ -38,7 +38,7 @@ current_group:
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "
-    **Molecular Biophysics and Structural Biology Graduate Student**<br>
+    **Molecular Biophysics/Structural Biology Graduate Student**<br>
     dty7 AT pitt DOT edu
     "
   - image_path: /assets/images/people/HEP.jpg
