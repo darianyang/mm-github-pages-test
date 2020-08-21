@@ -73,7 +73,6 @@ current_group:
 <div class="grid__wrapper">
     {% include feature_row id="lillian" type="left" %}
 <div>
-
 # Current Group Members
 
 {% include feature_row id="current_group" class="full" %}
