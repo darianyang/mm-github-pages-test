@@ -1,6 +1,6 @@
 ---
 permalink: /csw/
-title: "CSW"
+title: "Creative Science Writing"
 gallery:
   - image_path: /assets/images/csw/shapeimage_2.png
     alt: "Photo 1"
