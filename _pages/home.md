@@ -2,7 +2,7 @@
 permalink: /home/
 title: "Home"
 header:
-  image: /images/Pittsburgh_Image.png
+  image: /assets/images/Pittsburgh_Image.png
 ---
 
 The Chong Lab

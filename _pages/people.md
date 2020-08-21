@@ -5,9 +5,9 @@ title: The Chong Lab Research Group
 #layout: single
 #classes: wide
 #header:
-#  image: /images/people/Group2020.jpg
+#  image: /assets/images/people/Group2020.jpg
 lillian:
-  - image_path: /images/people/LTC.png
+  - image_path: /assets/images/people/LTC.png
     alt: "Lillian Chong"
     title: "Lillian Chong"
     excerpt: "**Associate Professor, Department of Chemistry**<br>
@@ -19,49 +19,49 @@ lillian:
     [CV](/images/LTCcvShort.pdf)
     "
 current_group:
-  - image_path: /images/people/ATB.png
+  - image_path: /assets/images/people/ATB.png
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
     excerpt: "
     **Chemistry Graduate Student**<br>
     atb43 AT pitt DOT edu
     "
-  - image_path: /images/people/JML.png
+  - image_path: /assets/images/people/JML.jpg
     alt: "Jeremy Leung"
     title: "Jeremy Leung"
     excerpt: "
     **Chemistry Graduate Student**<br>
     jml230 AT pitt DOT edu
     "
-  - image_path: /images/people/DTY.jpg
+  - image_path: /assets/images/people/DTY.jpg
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "
     **Molecular Biophysics and Structural Biology Ph.D Student**<br>
     dty7 AT pitt DOT edu
     "
-  - image_path: /images/people/HEP.png
+  - image_path: /assets/images/people/HEP.png
     alt: "Hannah Piston"
     title: "Hannah Piston"
     excerpt: "
     **Chemistry Graduate**<br>
     hep32 AT pitt DOT edu
     "
-  - image_path: /images/people/POH.png
+  - image_path: /assets/images/people/POH.png
     alt: "Page Harrison"
     title: "Page Harrison"
     excerpt: "
     **Phys./Comp. Sci. Undergrad.**<br>
     poh8 AT pitt DOT edu
     "
-  - image_path: /images/people/PAT.png
+  - image_path: /assets/images/people/PAT.png
     alt: "Paul Torrillo"
     title: "Paul Torrillo"
     excerpt: "
     **Math/Biology Undergraduate**<br>
     pat53 AT pitt DOT edu
     "
-  - image_path: /images/people/KFW.png
+  - image_path: /assets/images/people/KFW.png
     alt: "Kim Wong"
     title: "Kim Wong"
     excerpt: "
