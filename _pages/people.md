@@ -70,9 +70,8 @@ current_group:
     kimwong AT pitt DOT edu
     "
 ---
-<div class="grid__wrapper">
-    {% include feature_row id="lillian" type="left" %}
-<div>
+
+{% include feature_row id="lillian" type="left" %}
 # Current Group Members
 
 {% include feature_row id="current_group" class="full" %}
