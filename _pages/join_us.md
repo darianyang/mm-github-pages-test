@@ -7,9 +7,9 @@ title: "Join Us"
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
 
 
-[Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)
-[Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)
-[Joint CMU-Pitt PhD Program in Computational & Systems Biology](http://www.compbio.cmu.edu/)
+[Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)<br>
+[Joint CMU-Pitt PhD Program in Molecular Biophysics & Structural Biology](http://www.mbsb.pitt.edu/index.php/apply-here)<br>
+[Joint CMU-Pitt PhD Program in Computational & Systems Biology](http://www.compbio.cmu.edu/)<br>
 
 
 ## Undergraduates. 
