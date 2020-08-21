@@ -218,6 +218,8 @@ body {
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  border: 2px solid #ddd;
+  box-shadow: $box-shadow;
 }
 
 .page__hero-caption {
