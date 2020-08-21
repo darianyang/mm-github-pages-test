@@ -218,7 +218,7 @@ body {
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
-  border: 2px solid #ddd;
+  border: $border-image;
   box-shadow: $box-shadow;
 }
 
