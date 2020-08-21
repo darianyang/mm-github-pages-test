@@ -16,7 +16,7 @@ lillian:
     <br>
     Tel: 412-624-6026<br>
     ltchong AT pitt DOT edu<br>
-    [CV](/images/LTCcvShort.pdf)
+    [<i class="far fa-file-alt"></i> CV](/assets/pdf/LTCcvShort.pdf)
     "
 current_group:
   - image_path: /assets/images/people/ATB.png
