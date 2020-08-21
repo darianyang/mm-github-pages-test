@@ -5,12 +5,13 @@ title: The Chong Lab Research Group
 #layout: single
 #classes: wide
 #header:
-#  image: /assets/images/people/Group2020.jpg
+#image: /assets/images/people/Group2020.jpg
 lillian:
   - image_path: /assets/images/people/LTC.png
     alt: "Lillian Chong"
     title: "Lillian Chong"
-    excerpt: "**Associate Professor, Department of Chemistry**<br>
+    excerpt: "
+    **Associate Professor, Department of Chemistry**<br>
     **Affiliated Faculty, CMU-Pitt Molecular Biophysics/Structural Biology Program**<br>
     **Affiliated Faculty, CMU-Pitt Computational Biology Program**<br>
     <br>
