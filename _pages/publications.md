@@ -5,8 +5,6 @@ title: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
-AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong, L. T. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." [*J. Chem. Phys.* **2020**, 153(6), 064101](https://aip.scitation.org/doi/10.1063/5.0019054). \* equal authorship
-
 AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” [*Living Journal of Computational Molecular Science* **2019**, 1, 10607](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0). \* equal authorship
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” [*Chemical Sciences* **2019**, 10, 2360](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract).
@@ -39,6 +37,8 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 
 ## Development/evaluation of biomolecular force fields and water models
+
+AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong, L. T. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." [*J. Chem. Phys.* **2020**, 153(6), 064101](https://aip.scitation.org/doi/10.1063/5.0019054). \* equal authorship
 
 DS Cerutti, KT Debiec, DA Case, and LT Chong. “Links between the charge model and bonded parameter force constants in biomolecular force constants.” [*J. Chem. Phys.* **2017**, 147, 161730](http://aip.scitation.org/doi/10.1063/1.4985866).
 
