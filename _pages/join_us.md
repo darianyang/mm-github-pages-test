@@ -3,7 +3,7 @@ permalink: /join_us/
 title: "Join Us"
 ---
 
-## Graduate Students. 
+## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
 
 
@@ -12,5 +12,5 @@ Positions are available for students with interests in the research area of comp
 [Joint CMU-Pitt PhD Program in Computational & Systems Biology](http://www.compbio.cmu.edu/)<br>
 
 
-## Undergraduates. 
+## Undergraduates
 Positions for a minimum of one year, including full-time research during the summer, are available to students majoring in chemistry, biology, math, physics, computer science, and related fields. Interested applicants should email a one-page resume along with contact information for at least two references to ltchong AT pitt DOT edu. 
