@@ -85,6 +85,7 @@ Alex DeGrave (2017-2018), now an MD/PhD student at U. Washington.
 
 Ali Saglam, PhD (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 Karl Debiec, PhD (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
+Matthew Zwier, PhD (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 Reza Salari, PhD (2012), A&S Fellow, now a medical resident at Washington U. - St. Louis.  
 
 Andrew Bellesis, MS (2020), now a research specialist at U. Pittsburgh School of Public Health.  
