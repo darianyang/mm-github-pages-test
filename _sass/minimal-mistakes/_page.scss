@@ -70,7 +70,7 @@ body {
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 0.5;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -79,7 +79,7 @@ body {
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-2;
 }
 
 .page__content {
@@ -205,7 +205,7 @@ body {
     }
 
     .page__title {
-      font-size: $type-size-3;
+      font-size: $type-size-1;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
