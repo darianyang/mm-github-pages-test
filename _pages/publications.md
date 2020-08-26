@@ -98,4 +98,3 @@ K Lin, HS Ateeq, SH Hsiung, LT Chong, CN Zimmerman, A Castro, WC Lee, CE Hammond
 LT Chong, SE Dempster, ZS Hendsch, L-P Lee, and B Tidor. "Computation of Electrostatic Complements to Proteins: A Case of Charge Stabilized Binding." *Protein Sci.* **1998**, 7, 206.
 
 
-
