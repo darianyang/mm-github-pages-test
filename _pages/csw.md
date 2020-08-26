@@ -2,18 +2,24 @@
 permalink: /csw/
 title: "Creative Science Writing"
 gallery:
-  - image_path: /assets/images/csw/shapeimage_2.png
+  - image_path: /assets/images/csw/CSW_finale_1.jpg
     alt: "Photo 1"
-  - image_path: /assets/images/csw/shapeimage_3.png
+  - image_path: /assets/images/csw/CSW_finale_2.jpg
     alt: "Photo 2"
-  - image_path: /assets/images/csw/shapeimage_4.png
+  - image_path: /assets/images/csw/CSW_finale_3.jpg
     alt: "Photo 3"
-  - image_path: /assets/images/csw/shapeimage_5.png
+  - image_path: /assets/images/csw/CSW_finale_4.jpg
     alt: "Photo 4"
-  - image_path: /assets/images/csw/shapeimage_6.png
+  - image_path: /assets/images/csw/CSW_finale_5.jpg
     alt: "Photo 5"
-  - image_path: /assets/images/csw/shapeimage_7.png
+  - image_path: /assets/images/csw/CSW_finale_6.jpg
     alt: "Photo 6"
+  - image_path: /assets/images/csw/CSW_finale_7.jpg
+    alt: "Photo 7"
+  - image_path: /assets/images/csw/CSW_finale_8.jpg
+    alt: "Photo 8"
+  - image_path: /assets/images/csw/CSW_finale_9.jpg
+    alt: "Photo 9"
 ---
 
 ## Summer Workshop in Creative Science Writing
