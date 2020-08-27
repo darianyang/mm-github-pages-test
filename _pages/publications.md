@@ -1,6 +1,8 @@
 ---
 permalink: /publications/
 title: "Publications"
+toc: true
+toc_sticky: true
 ---
 
 ## Weighted ensemble simulation of rare events

@@ -6,6 +6,10 @@ title: The Chong Lab Research Group
 #classes: wide
 #header:
 #image: /assets/images/people/Group2020.jpg
+toc: true
+toc_sticky: true
+toc_icon: "users"
+toc_label: "The Chong Lab"
 lillian:
   - image_path: /assets/images/people/LTC.jpg
     alt: "Lillian Chong"
@@ -17,7 +21,7 @@ lillian:
     <br>
     Tel: 412-624-6026<br>
     ltchong AT pitt DOT edu<br>
-    [CV](/assets/pdf/LTCcvShort.pdf)
+    [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 current_group:
   - image_path: /assets/images/people/ATB.jpg
@@ -71,9 +75,10 @@ current_group:
     "
 ---
 
+# Principal Investigator
 {% include feature_row id="lillian" type="left" %}
-# Current Group Members
 
+# Current Group Members
 {% include feature_row id="current_group" class="full" %}
 
 # Group Alumni
