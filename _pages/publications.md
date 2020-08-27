@@ -59,7 +59,7 @@ AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT De
 [link](https://aip.scitation.org/doi/10.1063/5.0019054){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Bogetti et al. - 2020 - A twist in the road less traveled The AMBER ff15i.pdf){: .btn .btn--inverse .btn--small}
 
 DS Cerutti, KT Debiec, DA Case, and LT Chong. “Links between the charge model and bonded parameter force constants in biomolecular force constants.” *J. Chem. Phys.* **2017**, 147, 161730. 
-[link](http://aip.scitation.org/doi/10.1063/1.4985866){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Cerutti et al. - 2017 - Links between the charge model and bonded paramete.pdf){: .btn .btn--inverse .btn--small}
+[link](http://aip.scitation.org/doi/10.1063/1.4985866){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Cerutti et al. - 2017 - Links between the charge model and bonded paramete_compressed.pdf){: .btn .btn--inverse .btn--small}
 
 KT Debiec, DS Cerutti, LR Baker, AM Gronenborn, DA Case, and LT Chong. “Further along the road less traveled: AMBER ff15ipq, an original protein force field built on a self-consistent physical model.” *J. Chem. Theory Comput.* **2016**, 12, 3926. 
 [link](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00567){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Debiec et al. - 2016 - Further along the Road Less Traveled AMBER ff15ip.pdf){: .btn .btn--inverse .btn--small}
