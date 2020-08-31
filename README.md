@@ -1,4 +1,4 @@
-# [chongwebsitetest](https://darianyang.github.io)
+# [chongwebsitetest](https://ltchong.github.io)
 
 Git repository for the Chong Lab website at the University of Pittsburgh
 - Maintained using [Jekyll](https://jekyllrb.com/)
