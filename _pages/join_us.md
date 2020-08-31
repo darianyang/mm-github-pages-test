@@ -26,7 +26,6 @@ Positions for a minimum of one year, including full-time research during the sum
   
 <details>
 <summary>Anthony</summary>
-<br>
 <ul>
     <li>Mount Washington (Grandview) Overlook (best view of the city)</li>
     <li>The Strip District (great espresso/other kinds of coffee at La Prima Coffee shop)</li>
@@ -43,7 +42,6 @@ Positions for a minimum of one year, including full-time research during the sum
 
 <details>
 <summary>Darian</summary>
-<br>
 <ul>
     <li>Point state park</li>
     <li>If you like sushi: Umami in Lawrenceville</li>
@@ -60,7 +58,6 @@ Positions for a minimum of one year, including full-time research during the sum
 
 <details>
 <summary>Hannah</summary>
-<br>
 <ul>
 <li>Favorite general areas of Pittsburgh:</li>
     <ul>
@@ -89,24 +86,23 @@ Positions for a minimum of one year, including full-time research during the sum
     <ul>
     <li>Big Dog Cafe, Adda, Arreviste, Prestogeorge coffee & tea (especially their Holiday blend beans) or Dobra tea house</li>
     </ul>
-<li>Music: 
+  <li>Music:</li>
     <ul>
     <li>Classical music at Heinz Hall with the PSO (there are chamber group and other concerts by PSO musicians that are really nice throughout the city as well)</li>
     <li>Stage AE for bands/artists</li>
     <li>Point State Park for summer music festival</li>
-    <li>Mr. Smalls theatre for small venues (best experience for bands by far!!) </li>
+    <li>Mr. Smalls theatre for small venues (best experience for bands by far!!)</li>
     </ul>
-<li>Outside of Pittsburgh: </li>
+<li>Outside of Pittsburgh:</li>
     <ul>
-    <li>Moraine State Park - canoeing, kayaking, sailing, trails, camping… lots of things to do there and it’s very beautiful and relaxing to get away for a day trip or weekend. </li>
-    <li>Ohiopyle - this is another state park where you can do a lot of activities and has quite a few waterfalls to see on trails :) </li>
+    <li>Moraine State Park - canoeing, kayaking, sailing, trails, camping… lots of things to do there and it’s very beautiful and relaxing to get away for a day trip or weekend.</li>
+    <li>Ohiopyle - this is another state park where you can do a lot of activities and has quite a few waterfalls to see on trails :)</li>
     </ul>
 </ul>
 </details>
 
 <details>
 <summary>Jeremy</summary>
-<br>
 <ul>
     <li>Shadyside: Walnut Street</li>
     <li>If you’re an ice cream fan: Page’s Dairy Mart (Local ice cream shop that happens to incorporate other local products), Rita Ice, Millie’s Ice Cream</li>
@@ -115,7 +111,6 @@ Positions for a minimum of one year, including full-time research during the sum
 
 <details>
 <summary>Lillian</summary>
-<br>
 <ul>
     <li>Squirrel Hill! Being within walking distance of the Manor theatre, yoga studio, Dobra tea house, Five Points Bakery, Panda Asian grocery store, Classic Lines bookstore, tasty restaurants, and several beautiful parks (Schenley, Frick, and Mellon parks)</li>
     <li>Great eats from around the world, including Udipi Cafe, Masala House, Chengdu Gourmet, Turkish Kebab House, and Butterjoint (a classy bar with fantastic burgers)</li>
