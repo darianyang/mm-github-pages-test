@@ -42,7 +42,7 @@ current_group:
     alt: "Darian Yang"
     title: "Darian Yang"
     excerpt: "
-    **Molecular Biophysics/Structural Biology Graduate Student**<br>
+    **Molecular Biophysics/ Structural Biology Graduate Student**<br>
     dty7 AT pitt DOT edu
     "
   - image_path: /assets/images/people/HEP.jpg
@@ -56,7 +56,7 @@ current_group:
     alt: "Page Harrison"
     title: "Page Harrison"
     excerpt: "
-    **Phys./Comp. Sci. Undergradduate Student**<br>
+    **Phys./Comp. Sci. Undergraduate Student**<br>
     poh8 AT pitt DOT edu
     "
   - image_path: /assets/images/people/PAT.jpg
