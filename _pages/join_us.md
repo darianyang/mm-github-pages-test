@@ -1,6 +1,10 @@
 ---
 permalink: /join_us/
 title: "Join Us"
+toc: true
+toc_sticky: true
+toc_label: "Join Us"
+toc_icon: "user-plus"
 ---
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
@@ -20,7 +24,7 @@ Positions for a minimum of one year, including full-time research during the sum
 ## Thinking about visiting or moving to Pittsburgh?
 <details>
 <summary>
-<b>Here are some of the Chong Lab member's top Pittsburgh places</b>
+<b>Here are some of the Chong Lab member's top Pittsburgh places!</b>
 </summary>
 <br>
   
@@ -105,7 +109,7 @@ Positions for a minimum of one year, including full-time research during the sum
 <summary>Jeremy</summary>
 <ul>
     <li>Shadyside: Walnut Street</li>
-    <li>If you’re an ice cream fan: Page’s Dairy Mart (Local ice cream shop that happens to incorporate other local products), Rita Ice, Millie’s Ice Cream</li>
+    <li>If you’re an ice cream fan: Page’s Dairy Mart (Local ice cream shop that happens to incorporate other local products), Rita's Italian Ice, Millie’s Ice Cream, Crafton Ice Cream Delite</li>
 </ul>
 </details>
 
