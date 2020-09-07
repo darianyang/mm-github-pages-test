@@ -13,7 +13,7 @@ I have an opening for one postdoctoral researcher to join my lab in the developm
 
 The ideal candidate will have a strong background in scientific software development, methods development, and molecular dynamics simulations. We encourage diversity of all types, and applications from women and minorities are particularly encouraged. 
 
-This position is expected to start in **January 2021 or at a later time on mutual agreement**. The initial appointment is for a period of one year and the contract is renewable for another year, pending satisfactory research progress. 
+**This position is expected to start January 2021 or at a later time on mutual agreement**. The initial appointment is for a period of one year and the contract is renewable for another year, pending satisfactory research progress. 
 
 To apply, please email the following to ltchong DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and contact information for three references. Review of applications will begin immediately and continue until the position is filled. 
 
