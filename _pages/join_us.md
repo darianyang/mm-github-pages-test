@@ -32,7 +32,7 @@ Positions for a minimum of one year, including full-time research during the sum
 ## Thinking about visiting or moving to Pittsburgh?
 <details>
 <summary>
-<b>Here are some of the Chong Lab member's top Pittsburgh places!</b>
+<b>Here are some of the Chong Lab's top Pittsburgh places!</b>
 </summary>
 <br>
   
