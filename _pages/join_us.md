@@ -8,6 +8,14 @@ toc_icon: "user-plus"
 ---
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
+## Postdocs
+I have an opening for one postdoctoral researcher to join us in efforts funded by an NIH-funded renewal titled “High-performance weighted ensemble software for simulation of complex bio-events.” The postdoc will develop and apply new methods involving the weighted ensemble strategy to simulate pathways and kinetics of long-timescale processes such as protein (un)binding, large-scale protein conformational transitions, and protein design. The ideal candidate will have a strong background in scientific software development, including with Python, experience with molecular dynamics simulations and methods development. We encourage diversity of all types, and applications from women and minorities are particularly encouraged. 
+
+This position is expected to start on January 11, 2021 or at a later time on mutual agreement. The initial appointment is for a period of one year and the contract is renewable for another year, pending satisfactory research progress. 
+
+To apply, please email the following to ltchong DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and contact information for three references. Review of applications will begin immediately and continue until the position is filled. 
+
+
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
 
