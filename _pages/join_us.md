@@ -15,7 +15,7 @@ The ideal candidate will have a strong background in scientific software develop
 
 ***This position is expected to start January 2021 or at a later time on mutual agreement***. The initial appointment is for a period of one year and the contract is renewable for another year, pending satisfactory research progress. 
 
-To apply, please email the following to ltchong DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and contact information for three references. Review of applications will begin immediately and continue until the position is filled. 
+To apply, please email the following to ltchong AT DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and contact information for three references. Review of applications will begin immediately and continue until the position is filled. 
 
 
 ## Graduate Students
