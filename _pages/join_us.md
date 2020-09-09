@@ -7,7 +7,7 @@ toc_label: "Join Us"
 toc_icon: "user-plus"
 ---
 
-We seek highly motivated and creative scientists to join our group. We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds, and applications from women and underrepresented minorities are particularly encouraged.
+Join us in our scientific adventures! We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds, and applications from women and underrepresented minorities are particularly encouraged.
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
