@@ -14,7 +14,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 ## Postdocs
 We are pleased to announce an opening for one postdoctoral researcher. This position will involve developing new weighted ensemble strategies to enable atomically detailed simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond milliseconds). Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the [WESTPA software](https://westpa.github.io/westpa) with the [Orion Cloud Computing Platform](https://www.eyesopen.com/orion) to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
 
-The ideal candidate will have a strong background in statistical mechanics, methods development, and scientific software development. 
+The ideal candidate will have a strong background in chemistry or physics, methods development, and scientific software development. 
 
 ***This position is expected to start January 2021 or at a later time on mutual agreement***. The position is funded by NIH and is for one year with the possibility of extension for another year based on mutual interest. 
 
