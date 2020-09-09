@@ -31,7 +31,7 @@ Positions are available for students with interests in the research area of comp
 
 
 ## Undergraduates
-Positions for a minimum of one year, including full-time research during the summer. Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply. Interested applicants should email a one-page resume along with contact information for at least two references to ltchong AT pitt DOT edu. 
+Positions for a minimum of one year, including full-time research during the summer. Undergraduates majoring in chemistry, biology, physics, math, computer science, and related fields are encouraged to apply. Interested applicants should email a one-page resume along with contact information for two references to ltchong AT pitt DOT edu. 
 
 
 ## Thinking about visiting or moving to Pittsburgh?
