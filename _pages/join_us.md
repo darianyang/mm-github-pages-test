@@ -8,10 +8,13 @@ toc_icon: "user-plus"
 ---
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
+
+The Chong Lab is a highly interdisciplinary group in which members have backgrounds in chemistry, biology, math, computer science, and related fields. We seek highly motivated and creative scientists to join our group. We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage diversity, and applications from women and underrepresented minorities are particularly encouraged. 
+
 ## Postdocs
 We are pleased to announce an opening for one postdoctoral researcher. This position will involve developing new weighted ensemble strategies to enable atomically detailed simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond milliseconds). These efforts are funded over the next three years by an NIH RO1 renewal titled “High-performance weighted ensemble software for simulation of complex bio-events”. Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the [WESTPA software](https://westpa.github.io/westpa) with the [Orion Cloud Computing Platform](https://www.eyesopen.com/orion) to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
 
-The ideal candidate will have a strong background in computational biophysics, methods development, and scientific software development. We encourage diversity, and applications from women and underrepresented minorities are particularly encouraged. 
+The ideal candidate will have a strong background in computational biophysics, methods development, and scientific software development. 
 
 ***This position is expected to start January 2021 or at a later time on mutual agreement***. The initial appointment is for a period of one year and the contract is renewable for another year, pending satisfactory research progress. 
 
@@ -28,7 +31,7 @@ Positions are available for students with interests in the research area of comp
 
 
 ## Undergraduates
-Positions for a minimum of one year, including full-time research during the summer, are available to students majoring in chemistry, biology, math, physics, computer science, and related fields. Interested applicants should email a one-page resume along with contact information for at least two references to ltchong AT pitt DOT edu. 
+Positions for a minimum of one year, including full-time research during the summer. Interested applicants should email a one-page resume along with contact information for at least two references to ltchong AT pitt DOT edu. 
 
 
 ## Thinking about visiting or moving to Pittsburgh?
