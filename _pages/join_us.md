@@ -7,6 +7,8 @@ toc_label: "Join Us"
 toc_icon: "user-plus"
 ---
 
+We welcome application from prospective postdocs, graduate students, and undergraduates. We seek highly motivated and creative scientists to join our group.  
+
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
