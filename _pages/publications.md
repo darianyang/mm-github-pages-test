@@ -12,7 +12,7 @@ AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
 
 AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chemical Sciences* **2019**, 10, 2360. 
-[link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small}
+[link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
 
 AJ DeGrave, JH Ha, SN Loh, and LT Chong. “Large enhancement of response times of a protein conformational switch by computational design.” *Nat. Commun.* **2018**, 9, 1013. 
 [link](https://www.nature.com/articles/s41467-018-03228-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2018 - Large enhancement of response times of a protein c.pdf){: .btn .btn--inverse .btn--small}
