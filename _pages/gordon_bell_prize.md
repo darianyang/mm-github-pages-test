@@ -27,7 +27,7 @@ We simulated coronavirus spike opening using the weighted ensemble strategy.<sup
 
 To run our weighted ensemble simulations, we used the open-source [WESTPA software|https://github.com/westpa/westpa]<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
 
-![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.eps){:height="40%" width="40%" .align-center}
+![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.pdf){:height="40%" width="40%" .align-center}
 
 **Figure 3**. The WESTPA software scaled almost linearly on 100 NVIDIA V100 GPUs on the Longhorn supercomputer. This scaling enabled the fast and efficient simulation of the coronavirus spike opening.
 
