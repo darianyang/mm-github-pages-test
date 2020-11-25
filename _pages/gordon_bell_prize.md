@@ -13,7 +13,7 @@ Terra Sztain<sup>1</sup>, Surl-Hee Ahn<sup>1</sup>, Anthony Bogetti<sup>2</sup>,
 
 We are proud to have been a part of an incredible team effort to simulate the entire coronavirus in atomic-level detail (a simulation containing millions of atoms!), which recently won the Gordon Bell Special Prize in HPC-based COVID-19 Research. This massive effort was the culmination of only 6 months of work from 28 scientists across the country from 10 different institutions. Due to the global emergency of the pandemic, an unprecedented amount of computing power was made available for these efforts, including resources at four supercomputing centers.
 
-![Coronavirus Spike](/assets/images/covid_spike.pdf){:height="40%" width="40%" .align-center}
+![Coronavirus Spike](/assets/images/covid_spike.png){:height="40%" width="40%" .align-center}
 
 **Figure 1**. The coronavirus spike protein, which protrudes from the virus surface, is the virus’ first line of attack. A detailed understanding of how the spike protein opens up and latches onto host cells can help turn the tide in the fight against the virus. Image created by Lorenzo Casalino.
 
@@ -27,7 +27,7 @@ We simulated coronavirus spike opening using the weighted ensemble strategy.<sup
 
 To run our weighted ensemble simulations, we used the open-source [WESTPA software|https://github.com/westpa/westpa]<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
 
-![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.pdf){:height="40%" width="40%" .align-center}
+![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.png){:height="40%" width="40%" .align-center}
 
 **Figure 3**. The WESTPA software scaled almost linearly on 100 NVIDIA V100 GPUs on the Longhorn supercomputer. This scaling enabled the fast and efficient simulation of the coronavirus spike opening.
 
