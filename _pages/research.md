@@ -10,9 +10,9 @@ title: "Research"
 3) Development of molecular simulation strategies for rational design of engineered protein conformational switches.  
 4) Development of biomolecular force fields.  
 
-
 Our work is featured [here](https://crc.pitt.edu/unexplored-region) by the University of Pittsburgh’s Center for Research and Computing.
 
+[2020 Gordon Bell Special Prize Recipients](https://ltchong.github.io/software/gordon_bell_prize)
 
 ## Collaborations:
 ### With other computational labs:
