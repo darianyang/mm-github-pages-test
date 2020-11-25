@@ -12,7 +12,7 @@ title: "Research"
 
 Our work is featured [here](https://crc.pitt.edu/unexplored-region) by the University of Pittsburgh’s Center for Research and Computing.
 
-[2020 Gordon Bell Special Prize Recipients](https://ltchong.github.io/software/gordon_bell_prize)
+[2020 Gordon Bell Special Prize Recipients](https://ltchong.github.io/gordon_bell_prize)
 
 ## Collaborations:
 ### With other computational labs:

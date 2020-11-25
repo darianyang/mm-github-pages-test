@@ -15,7 +15,7 @@ We are proud to have been a part of an incredible team effort to simulate the en
 
 ![Coronavirus Spike](/assets/images/covid_spike.png){:height="40%" width="40%" .align-center}
 
-**Figure 1**. The coronavirus spike protein, which protrudes from the virus surface, is the virus’ first line of attack. A detailed understanding of how the spike protein opens up and latches onto host cells can help turn the tide in the fight against the virus. Image created by Lorenzo Casalino.
+**Figure 1**. The coronavirus spike protein, which protrudes from the virus surface as shown above, is the virus’ first line of attack. A detailed understanding of how the spike protein opens up and latches onto host cells can help turn the tide in the fight against the virus. Our simulations of the spike protein were in the absense of the viral membrane. Image created by Lorenzo Casalino.
 
 A crowning achievement of our effort was the generation of atomically detailed views of how the coronavirus’ spike protein (**Figure 1**) opens up, an essential motion of the virus’ most deadly and infectious tool. Standard simulations of this opening process for such a large protein (~600,000 atoms) would have taken years, even when using state-of-the-art computer hardware and many, many GPUs. This is a lower-bound, ball-park estimate, assuming that the spike opening is on the microsecond to millisecond timescale. 
 
@@ -25,7 +25,7 @@ A crowning achievement of our effort was the generation of atomically detailed v
 
 We simulated coronavirus spike opening using the weighted ensemble strategy.<sup>2,3,4</sup> By focusing computing power on the transitions between stable states (**Figure 2**), the weighted ensemble strategy can be orders of magnitude more efficient than standard simulations in generating unbiased, continuous pathways and rate constants for rare events (e.g., large-scale protein conformational transitions and protein binding). In addition, the strategy can be applied to any stochastic process<sup>2,3</sup> and a target state does not need to be strictly defined in advance.<sup>5</sup> 
 
-To run our weighted ensemble simulations, we used the open-source [WESTPA software|https://github.com/westpa/westpa]<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
+To run our weighted ensemble simulations, we used the open-source [WESTPA software](https://github.com/westpa/westpa)<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
 
 ![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.png){:height="40%" width="40%" .align-center}
 
