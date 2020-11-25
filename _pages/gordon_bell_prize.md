@@ -25,7 +25,7 @@ A crowning achievement of our effort was the generation of atomically detailed v
 
 We simulated coronavirus spike opening using the weighted ensemble strategy.<sup>2,3,4</sup> By focusing computing power on the transitions between stable states (**Figure 2**), the weighted ensemble strategy can be orders of magnitude more efficient than standard simulations in generating unbiased, continuous pathways and rate constants for rare events (e.g., large-scale protein conformational transitions and protein binding). In addition, the strategy can be applied to any stochastic process<sup>2,3</sup> and a target state does not need to be strictly defined in advance.<sup>5</sup> 
 
-To run our weighted ensemble simulations, we used the open-source [WESTPA software|https://github.com/westpa/westpa]<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
+To run our weighted ensemble simulations, we used the open-source [WESTPA software](https://github.com/westpa/westpa)<sup>6</sup> which scales out to a large number of GPUs (as well as CPU cores) (**Figure 3**) and is interoperable with any dynamics engine of choice. In our simulations, we used the GPU-accelerated Amber dynamics engine, which gave a 16-fold speedup in dynamics propagation on a GPU vs. CPU.
 
 ![WESTPA Scaling Longhorn](/assets/images/westpa_scaling_longhorn.png){:height="40%" width="40%" .align-center}
 
