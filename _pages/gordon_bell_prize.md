@@ -15,7 +15,7 @@ We are proud to have been a part of an incredible team effort to simulate the en
 
 ![Coronavirus Spike](/assets/images/covid_spike.png){:height="40%" width="40%" .align-center}
 
-**Figure 1**. The coronavirus spike protein, which protrudes from the virus surface, is the virus’ first line of attack. A detailed understanding of how the spike protein opens up and latches onto host cells can help turn the tide in the fight against the virus. Image created by Lorenzo Casalino.
+**Figure 1**. The coronavirus spike protein, which protrudes from the virus surface as shown above, is the virus’ first line of attack. A detailed understanding of how the spike protein opens up and latches onto host cells can help turn the tide in the fight against the virus. Our simulations of the spike protein were in the absense of the viral membrane. Image created by Lorenzo Casalino.
 
 A crowning achievement of our effort was the generation of atomically detailed views of how the coronavirus’ spike protein (**Figure 1**) opens up, an essential motion of the virus’ most deadly and infectious tool. Standard simulations of this opening process for such a large protein (~600,000 atoms) would have taken years, even when using state-of-the-art computer hardware and many, many GPUs. This is a lower-bound, ball-park estimate, assuming that the spike opening is on the microsecond to millisecond timescale. 
 
