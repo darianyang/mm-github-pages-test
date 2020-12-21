@@ -37,6 +37,8 @@ Finally, our WE simulation has provided a high-quality training set of spike ope
 
 We are excited to see how so many different simulation techniques could be integrated to meet the grave challenge that humanity currently faces. We look forward to what the weighted ensemble strategy can tackle next, and how our recent results can help stop the coronavirus!
 
+Watch a full video presentation of the entire project [here](https://www.youtube.com/watch?v=EIReA3s1Nwk&feature=youtu.be).
+
 **References**
 1.	Zwier, M. C. & Chong, L. T. Reaching biological timescales with all-atom molecular dynamics simulations. *Current Opinion in Pharmacology* vol. 10 745–752 (2010).
 2.	Huber, G. A. & Kim, S. Weighted-ensemble Brownian dynamics simulations for protein association reactions. *Biophysical Journal* vol. 70 97–110 (1996).
