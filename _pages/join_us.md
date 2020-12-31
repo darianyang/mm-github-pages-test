@@ -16,7 +16,7 @@ We are pleased to announce an opening for one postdoctoral researcher in the are
 
 The ideal candidate will have a strong background in chemistry or physics, methods development, and scientific software development. 
 
-***This position is expected to start January 2021 or at a later time on mutual agreement***. The position is funded by NIH and is for one year with the possibility of extension for up to another two years based on mutual interest. 
+***This position is expected to start June 2021 or at a later time on mutual agreement***. The position is funded by NIH and is for one year with the possibility of extension for up to another two years based on mutual interest. 
 
 To apply, please email the following to ltchong AT DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and contact information for three references. Review of applications will begin immediately and continue until the position is filled. 
 
