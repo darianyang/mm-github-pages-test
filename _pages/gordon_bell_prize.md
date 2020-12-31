@@ -11,7 +11,7 @@ Terra Sztain<sup>1</sup>, Surl-Hee Ahn<sup>1</sup>, Anthony Bogetti<sup>2</sup>,
 2. University of Pittsburgh
 3. University of Texas at Austin
 
-We are proud to have been a part of an incredible team effort to simulate the entire coronavirus in atomic-level detail (a simulation containing millions of atoms!), which recently won the Gordon Bell Special Prize in HPC-based COVID-19 Research (see our [video](https://www.youtube.com/watch?v=EIReA3s1Nwk&feature=youtu.be)). This massive effort was the culmination of only 6 months of work from 28 scientists across the country from 10 different institutions. Due to the global emergency of the pandemic, an unprecedented amount of computing power was made available for these efforts, including resources at four supercomputing centers.
+We are proud to have been a part of an incredible team effort to simulate the coronavirus in atomic-level detail (a simulation containing millions of atoms!), which won the 2020 Gordon Bell Special Prize in HPC-based COVID-19 Research (see our [video](https://www.youtube.com/watch?v=EIReA3s1Nwk&feature=youtu.be)). This massive effort was the culmination of only 6 months of work from 28 scientists across the country from 10 different institutions. Due to the global emergency of the pandemic, an unprecedented amount of computing power was made available for these efforts, including resources at four supercomputing centers.
 
 ![Coronavirus Spike](/assets/images/covid_spike.png){:height="40%" width="40%" .align-center}
 
