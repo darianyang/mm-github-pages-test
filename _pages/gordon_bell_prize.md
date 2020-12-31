@@ -11,7 +11,7 @@ Terra Sztain<sup>1</sup>, Surl-Hee Ahn<sup>1</sup>, Anthony Bogetti<sup>2</sup>,
 2. University of Pittsburgh
 3. University of Texas at Austin
 
-We are proud to have been a part of an incredible team effort to simulate the entire coronavirus in atomic-level detail (a simulation containing millions of atoms!), which recently won the Gordon Bell Special Prize in HPC-based COVID-19 Research. This massive effort was the culmination of only 6 months of work from 28 scientists across the country from 10 different institutions. Due to the global emergency of the pandemic, an unprecedented amount of computing power was made available for these efforts, including resources at four supercomputing centers.
+We are proud to have been a part of an incredible team effort to simulate the entire coronavirus in atomic-level detail (a simulation containing millions of atoms!), which recently won the Gordon Bell Special Prize in HPC-based COVID-19 Research (watch the video [here](https://www.youtube.com/watch?v=EIReA3s1Nwk&feature=youtu.be). This massive effort was the culmination of only 6 months of work from 28 scientists across the country from 10 different institutions. Due to the global emergency of the pandemic, an unprecedented amount of computing power was made available for these efforts, including resources at four supercomputing centers.
 
 ![Coronavirus Spike](/assets/images/covid_spike.png){:height="40%" width="40%" .align-center}
 
@@ -36,8 +36,6 @@ In only 23 days, our WE simulations generated 204 continuous pathways of spike o
 Finally, our WE simulation has provided a high-quality training set of spike opening pathways for the Deep Drive MD efforts by Arvind Ramanathan and co-workers to characterize the opening process in the context of a much larger system that includes cellular membranes.
 
 We are excited to see how so many different simulation techniques could be integrated to meet the grave challenge that humanity currently faces. We look forward to what the weighted ensemble strategy can tackle next, and how our recent results can help stop the coronavirus!
-
-Watch a full video presentation of the entire project [here](https://www.youtube.com/watch?v=EIReA3s1Nwk&feature=youtu.be).
 
 **References**
 1.	Zwier, M. C. & Chong, L. T. Reaching biological timescales with all-atom molecular dynamics simulations. *Current Opinion in Pharmacology* vol. 10 745–752 (2010).
