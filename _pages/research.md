@@ -29,7 +29,7 @@ Our work is featured [here](https://crc.pitt.edu/unexplored-region) by the Unive
 
 ## Movie Gallery:
 
-{% include video id="fJwgKeCEUb4" provider="youtube" %}
+{% include video id="0mhMwpLSUXY" provider="youtube" %}
 [Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h#!divAbstract). Movie of a representative trajectory for barnase (blue) and barstar (orange) by weighted ensemble simulation with conformations recorded every ps. Residues at the binding interfaces of barnase (S38 and R59) and barstar (D35, D39, and W44) are highlighted in cyan and yellow, respectively. Also shown in the movie are surrounding water molecules with Na+ and Cl- ions to yield the experimental ionic strength of 50 mM NaCl. The background music is “The Story Unfolds” by Jingle Punks and royalty-free.
 
 
