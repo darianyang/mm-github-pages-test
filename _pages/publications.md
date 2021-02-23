@@ -8,6 +8,9 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
+AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *bioRxiv* **2021**. \*equal authorship 
+[link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations){: .btn .btn--inverse .btn--small}
+
 AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living Journal of Computational Molecular Science* **2019**, 1, 10607. \*equal authorship 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
 
