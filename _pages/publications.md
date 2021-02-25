@@ -16,6 +16,9 @@ AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estim
 
 PA Torrillo\*, AT Bogetti\*, and LT Chong. “A minimal, adaptive binning scheme for weighted ensemble simulations.” *J. Chem. Phys. A* **2021**, 125: 1642–1649. \*equal authorship [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c10724){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Torrillo et al. - 2021 - A Minimal, Adaptive Binning Scheme for Weighted En.pdf){: .btn .btn--inverse .btn--small}
 
+L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT Bogetti, H Ma, H Lee, M Turilli, S Khalid, LT Chong, C Simmerling, DJ Hardy, JDC Maia, JC Phillips, T Kurth, A Stern, L Huang, J McCalpin, M Tatineni, T Gibbs, JE Stone, S Jha, A Ramanathan, and RE Amaro. “AI-Driven Multiscale Simulations Illuminate Mechanisms of SARS-CoV-2 Spike Dynamics.” *bioRxiv* **2020**.  
+[link](https://www.biorxiv.org/content/10.1101/2020.11.19.390187v1){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Casalino et al. - 2020 - AI-Driven Multiscale Simulations Illuminate Mechan.pdf){: .btn .btn--inverse .btn--small} This paper has been awarded the [Gordon Bell Special Prize](/gordon_bell_prize).
+
 AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living Journal of Computational Molecular Science* **2019**, 1, 10607. \*equal authorship 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
 
