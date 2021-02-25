@@ -19,10 +19,10 @@ PA Torrillo\*, AT Bogetti\*, and LT Chong. “A minimal, adaptive binning scheme
 L Casalino, A Dommer, Z Gaieb, EP Barros, T Sztain, S Ahn, A Trifan, A Brace, AT Bogetti, H Ma, H Lee, M Turilli, S Khalid, LT Chong, C Simmerling, DJ Hardy, JDC Maia, JC Phillips, T Kurth, A Stern, L Huang, J McCalpin, M Tatineni, T Gibbs, JE Stone, S Jha, A Ramanathan, and RE Amaro. “AI-Driven Multiscale Simulations Illuminate Mechanisms of SARS-CoV-2 Spike Dynamics.” *bioRxiv* **2020**.  
 [link](https://www.biorxiv.org/content/10.1101/2020.11.19.390187v1){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Casalino et al. - 2020 - AI-Driven Multiscale Simulations Illuminate Mechan.pdf){: .btn .btn--inverse .btn--small} This paper has been awarded the [Gordon Bell Special Prize](/gordon_bell_prize).
 
-AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living Journal of Computational Molecular Science* **2019**, 1, 10607. \*equal authorship 
+AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living J. Comput. Mol. Sci.* **2019**, 1, 10607. \*equal authorship 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
 
-AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chemical Sciences* **2019**, 10, 2360. 
+AS Saglam and LT Chong. “Protein-protein binding pathways and calculations of rate constants using fully-continuous, explicit-solvent simulations.” *Chem. Sci.* **2019**, 10, 2360. 
 [link](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04811h){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Saglam and Chong - 2019 - Protein–protein binding pathways and calculations .pdf){: .btn .btn--inverse .btn--small} [data](https://zenodo.org/record/3885771#.X2KCloZ7nxt){: .btn .btn--inverse .btn--small}
 
 AJ DeGrave, JH Ha, SN Loh, and LT Chong. “Large enhancement of response times of a protein conformational switch by computational design.” *Nat. Commun.* **2018**, 9, 1013. 
@@ -66,7 +66,7 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Development/evaluation of biomolecular force fields and water models
 
-AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong, L. T. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
+AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
 [link](https://aip.scitation.org/doi/10.1063/5.0019054){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Bogetti et al. - 2020 - A twist in the road less traveled The AMBER ff15i.pdf){: .btn .btn--inverse .btn--small}
 
 DS Cerutti, KT Debiec, DA Case, and LT Chong. “Links between the charge model and bonded parameter force constants in biomolecular force constants.” *J. Chem. Phys.* **2017**, 147, 161730. 
