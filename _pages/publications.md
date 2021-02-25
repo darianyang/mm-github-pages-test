@@ -8,8 +8,13 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
+T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, RS McCool, FL Kearns, JA McCammon, JS McLellan, LT Chong, and RE Amaro. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *bioRxiv* **2021**. \*equal authorship 
+[link](https://www.biorxiv.org/content/10.1101/2021.02.15.431212v1){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 spike protein.pdf){: .btn .btn--inverse .btn--small}
+
 AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *bioRxiv* **2021**. \*equal authorship 
 [link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
+
+PA Torrillo\*, AT Bogetti\*, and LT Chong. “A minimal, adaptive binning scheme for weighted ensemble simulations.” *J. Chem. Phys. A* **2021**, 125: 1642–1649. \*equal authorship [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c10724){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Torrillo et al. - 2021 - A Minimal, Adaptive Binning Scheme for Weighted En.pdf){: .btn .btn--inverse .btn--small}
 
 AT Bogetti\*, B Mostofian\*, A Dickson\*, AJ Pratt\*, AS Saglam\*, PO Harrison\*, JL Adelman, M Dudek, PA Torrillo, AJ DeGrave, U Adhikari, MC Zwier, DM Zuckerman, and LT Chong. “A suite of tutorials for the WESTPA rare-events sampling software.” *Living Journal of Computational Molecular Science* **2019**, 1, 10607. \*equal authorship 
 [link](https://www.livecomsjournal.org/article/10607-a-suite-of-tutorials-for-the-westpa-rare-events-sampling-software-article-v1-0){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Bogetti et al. - 2019 - A Suite of Tutorials for the WESTPA Rare-Events Sa.pdf){: .btn .btn--inverse .btn--small}
