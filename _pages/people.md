@@ -82,25 +82,35 @@ current_group:
 {% include feature_row id="current_group" class="full" %}
 
 # Group Alumni
-## Research Staff
-Alex DeGrave (2017-2018), now an MD/PhD student at U. Washington.  
-
-
-## Graduate Students
-
-Ali Saglam, PhD (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
-Karl Debiec, PhD (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
 Matthew Zwier, PhD (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
+
+Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
+
+David Wang ([B. Phil](http://www.honorscollege.pitt.edu/bphil-degree); 2010-2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program.  
+
 Reza Salari, PhD (2012), A&S Fellow, now a medical resident at Washington U. - St. Louis.  
 
-Andrew Bellesis, MS (2020), now a research specialist at U. Pittsburgh School of Public Health.  
+Ali Saglam, PhD (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
+
+Maria Panteva (2008-2010), Visiting Assistant Professor at Bucknell University.  
+
 Brandon Mills, MS (2014), A&S Fellow, now a Consultant at LabAnswer.  
 
-
-## Undergraduate Students
+Natalia Hajlasz (2014-2017), [Regeneron STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), undergraduate at Harvard.
 
 Max Dudek (2018), undergraduate major in molecular biology and computer science.  
-Alex DeGrave (2014-2017), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships), now an MD/PhD student at U. Washington.  
+
+Alex DeGrave (2017-2018), now an MD/PhD student at U. Washington.  
+
+Karl Debiec, PhD (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
+
+Charles Bobcheck (2011-2012).  
+
+Monica Bhattacharjee (2007-2009), medical student at the U. Maryland at Baltimore. 
+
+Andrew Bellesis, MS (2020), now a research specialist at U. Pittsburgh School of Public Health.  
+
+
 Gabriel Garcia-Borrero (2017), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 Jakob Sorkness (2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.  
 Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
@@ -110,17 +120,10 @@ Parmila Kafley (2016-2017), undergraduate major in chemistry and political scien
 Lewis Baker (2015), now a graduate student in mathematics at UC Boulder.  
 Nicholas Rego (2012), now a graduate student in biophysics at U. Pennsylvania.  
 Daniel Hatfield (2012-2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
-Charles Bobcheck (2011-2012).  
-David Wang ([B. Phil](http://www.honorscollege.pitt.edu/bphil-degree); 2010-2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program.  
+
+
 Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, Fulbright Research Fellow at U. Cologne.  
 Joseph Kaus (2010-2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a researcher at Schrodinger.  
-Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
-Brandon Mills ([B. Phil](http://www.honorscollege.pitt.edu/bphil-degree); 2010-2014), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships), now a Consultant at LabAnswer.  
-Maria Panteva (2008-2010), Visiting Assistant Professor at Bucknell University.  
-Monica Bhattacharjee (2007-2009), medical student at the U. Maryland at Baltimore.  
 
 
-## High School Student
-
-Natalia Hajlasz (2014-2017), [Regeneron STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), undergraduate at Harvard.  
 
