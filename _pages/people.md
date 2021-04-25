@@ -92,7 +92,7 @@ current_group:
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Mallinckrodt Institute of Radiology.  
 * Maria (Panteva) Salari, BS in Chemistry (2010), Assistant Professor at McKendree University.  
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
-* Nicholas Rego (2012), now a graduate student in biophysics at U. Pennsylvania.  
+* Nicholas Rego, BS in Bioinformatics & Economics (2012), now a graduate student in biophysics at U. Pennsylvania.  
 * Brandon Mills, MS (2014), A&S Fellow, now a Consultant at LabAnswer.  
 * Joseph Kaus (2010-2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a researcher at Schrodinger.  
 * Parmila Kafley (2016-2017), undergraduate major in chemistry and political science.  
