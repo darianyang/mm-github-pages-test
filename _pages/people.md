@@ -83,16 +83,16 @@ current_group:
 
 # Group Alumni (in reverse alphabetical order for a change :))
 
-* Matthew Zwier, PhD (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
+* Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
 * David Wang ([B. Phil](http://www.honorscollege.pitt.edu/bphil-degree); 2010-2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program.  
 * Erin Walsh (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Jakob Sorkness (2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.  
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, Fulbright Research Fellow at U. Cologne.  
-* Reza Salari, PhD (2012), A&S Fellow, now a medical resident at Washington U. - St. Louis.  
-* Ali Sinan Saglam, PhD (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
+* Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Mallinckrodt Institute of Radiology.  
+* Maria Salari (Panteva), BS in Chemistry (2010), Assistant Professor at McKendree University.  
+* Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 * Nicholas Rego (2012), now a graduate student in biophysics at U. Pennsylvania.  
-* Maria Panteva (2008-2010), Visiting Assistant Professor at Bucknell University.  
 * Brandon Mills, MS (2014), A&S Fellow, now a Consultant at LabAnswer.  
 * Joseph Kaus (2010-2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a researcher at Schrodinger.  
 * Parmila Kafley (2016-2017), undergraduate major in chemistry and political science.  
@@ -102,11 +102,11 @@ current_group:
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek (2018), undergraduate major in molecular biology and computer science.  
 * Alex DeGrave (2017-2018), now an MD/PhD student at U. Washington.  
-* Karl Debiec, PhD (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
+* Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Charles Bobcheck (2011-2012).  
 * Monica Bhattacharjee (2007-2009), medical student at the U. Maryland at Baltimore. 
-* Andrew Bellesis, MS (2020), now a research specialist at U. Pittsburgh School of Public Health.  
+* Andrew Bellesis, MS in Biophysics (2020), now a research specialist at U. Pittsburgh School of Public Health.  
 * Lewis Baker (2015), now a graduate student in mathematics at UC Boulder.  
 
 
