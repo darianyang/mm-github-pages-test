@@ -85,7 +85,7 @@ current_group:
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Professor at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.  
-* David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Math (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
+* David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Applied Math (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
@@ -102,13 +102,13 @@ current_group:
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
-* Alex DeGrave, BS in Molecular Biology & Math (2017-2018), now an MD/PhD student at U. Washington.  
+* Alex DeGrave, BS in Molecular Biology & Applied Math (2017-2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Charles Bobcheck, BS in Chemistry (2012).  
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a research specialist at U. Pittsburgh School of Public Health.  
-* Lewis Baker, BS in Math (2015), now a graduate student in mathematics at UC Boulder.  
+* Lewis Baker, BS in Applied Math (2015), now a graduate student in mathematics at UC Boulder.  
 
 
 
