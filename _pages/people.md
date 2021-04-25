@@ -95,10 +95,10 @@ current_group:
 * Nicholas Rego, BS in Bioinformatics & Economics (2012), now a graduate student in biophysics at U. Pennsylvania.  
 * Brandon Mills, BS/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Scientist at Schrodinger.  
-* Parmila Kafley, BS in chemistry & political science (2019).  
+* Parmila Kafley, BS in chemistry & political science (2020).  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
 * Natalia Hajlasz (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), undergraduate at Harvard.
-* Gabriel Garcia-Borrero (2017), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
+* Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
 * Alex DeGrave, BS in Molecular Biology & Math (2017-2018), now an MD/PhD student at U. Washington.  
