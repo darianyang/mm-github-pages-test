@@ -85,12 +85,12 @@ current_group:
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
-* David Wang ([B. Phil](http://www.honorscollege.pitt.edu/bphil-degree); 2010-2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program.  
+* David Wang,[B. Phil](http://www.honorscollege.pitt.edu/bphil-degree) (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at University of Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Jakob Sorkness (2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.  
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, Fulbright Research Fellow at U. Cologne.  
 * Reza Salari, PhD in Chemistry (2012), A&S Fellow, now a resident at Mallinckrodt Institute of Radiology.  
-* Maria Salari (Panteva), BS in Chemistry (2010), Assistant Professor at McKendree University.  
+* Maria (Panteva) Salari, BS in Chemistry (2010), Assistant Professor at McKendree University.  
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 * Nicholas Rego (2012), now a graduate student in biophysics at U. Pennsylvania.  
 * Brandon Mills, MS (2014), A&S Fellow, now a Consultant at LabAnswer.  
