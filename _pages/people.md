@@ -84,7 +84,7 @@ current_group:
 # Group Alumni (in reverse alphabetical order for a change :))
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Professor at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
-* Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
+* Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med, Specialty Clinical Pharmacist.  
 * David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Math (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.  
