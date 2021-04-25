@@ -94,7 +94,7 @@ current_group:
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 * Nicholas Rego, BS in Bioinformatics & Economics (2012), now a graduate student in biophysics at U. Pennsylvania.  
 * Brandon Mills, BS/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
-* Joseph Kaus (2010-2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Scientist at Schrodinger.  
+* Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Scientist at Schrodinger.  
 * Parmila Kafley, BS in chemistry & political science (2019).  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
 * Natalia Hajlasz (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), undergraduate at Harvard.
