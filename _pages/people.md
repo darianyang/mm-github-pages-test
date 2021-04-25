@@ -66,13 +66,6 @@ current_group:
     **Math/Biology Undergraduate Student**<br>
     pat53 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/KFW.jpg
-    alt: "Kim Wong"
-    title: "Kim Wong"
-    excerpt: "
-    **CRC Programming Consultant**<br>
-    kimwong AT pitt DOT edu
-    "
 ---
 
 # Principal Investigator
