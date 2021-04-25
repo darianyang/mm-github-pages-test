@@ -93,7 +93,7 @@ current_group:
 * Maria (Panteva) Salari, BS in Chemistry (2010), Assistant Professor at McKendree University.  
 * Ali Sinan Saglam, PhD in Chemistry (2018), DAAD Grant awardee, now a postdoc at U. Pittsburgh Medical School.  
 * Nicholas Rego, BS in Bioinformatics & Economics (2012), now a graduate student in biophysics at U. Pennsylvania.  
-* Brandon Mills, MS (2014), A&S Fellow, now a Consultant at LabAnswer.  
+* Brandon Mills, MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
 * Joseph Kaus (2010-2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a researcher at Schrodinger.  
 * Parmila Kafley (2016-2017), undergraduate major in chemistry and political science.  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
