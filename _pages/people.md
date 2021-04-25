@@ -85,7 +85,7 @@ current_group:
 
 * Matthew Zwier, PhD in Chemistry (2013), A&S and Mellon Fellow, now an [Associate Prof. at Drake University](https://www.drake.edu/chemistry/facultystaff/drmatthewzwier/).  
 * Yiwen Zou (2010-2011), pharmacy student at Philadelphia College of Osteopathic Med.  
-* David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry and Math (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at University of Pittsburgh Medical School.  
+* David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Math (2012), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.  
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, Fulbright Research Fellow at U. Cologne.  
@@ -100,8 +100,8 @@ current_group:
 * Natalia Hajlasz (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), undergraduate at Harvard.
 * Gabriel Garcia-Borrero (2017), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
-* Max Dudek, BS in Molecular Biology and Computer Science (2021), NSF GRFP Award.  
-* Alex DeGrave, BS in Molecular Biology and Math (2017-2018), now an MD/PhD student at U. Washington.  
+* Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
+* Alex DeGrave, BS in Molecular Biology & Math (2017-2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Charles Bobcheck (2011-2012).  
