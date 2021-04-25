@@ -104,8 +104,8 @@ current_group:
 * Alex DeGrave, BS in Molecular Biology & Math (2017-2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
-* Charles Bobcheck (2011-2012).  
-* Monica Bhattacharjee (2007-2009), medical student at the U. Maryland at Baltimore. 
+* Charles Bobcheck, BS in Chemistry (2012).  
+* Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a research specialist at U. Pittsburgh School of Public Health.  
 * Lewis Baker, BS in Math (2015), now a graduate student in mathematics at UC Boulder.  
 
