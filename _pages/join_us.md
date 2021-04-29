@@ -14,7 +14,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 ## Postdocs
 We are pleased to announce an opening for one postdoctoral researcher in computational biophysics. This position will involve developing new weighted ensemble strategies to enable atomistic simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond milliseconds). Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the [WESTPA software](https://westpa.github.io/westpa) with the [Orion Cloud Computing Platform](https://www.eyesopen.com/orion) to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
 
-Qualifications:
+***Qualifications:***
 * A strong background in chemistry, physics, or related field 
 * Ability to conduct independent research
 * Demonstrated ability to program in Python
