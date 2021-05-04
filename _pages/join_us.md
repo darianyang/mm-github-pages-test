@@ -20,10 +20,11 @@ We are pleased to announce an opening for one postdoctoral researcher in computa
 * Demonstrated ability to program in Python
 * Strong interpersonal and communication skills
 
-***This position is expected to start in the summer or early fall of 2021***. The position is funded by NIH and is for one year with the possibility of extension for up to another two years based on mutual interest. 
+***This position is expected to start in September/October 2021***. The position is funded by NIH and is for one year with the possibility of extension for up to another two years based on mutual interest. 
 
-To apply, please email the following to ltchong AT DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, contact information for three references, and a document you wrote that has not been edited by anyone else (for example, a report for a class, an early draft of a manuscript, or proposal). Review of applications will begin immediately and continue until the position is filled. 
+To apply, please email the following to ltchong AT DOT pitt DOT edu: a CV, a cover letter explaining your interest in the position, and a document you wrote that has not been edited by anyone else (for example, a report for a class, an early draft of a manuscript, or proposal). Please also ask three references to email letters of support to ltchong AT DOT pitt DOT edu. Review of applications will begin immediately and continue until the position is filled. 
 
+The University of Pittsburgh is an Affirmative Action/Equal Opportunity Employer and values equality of opportunity, human dignity and diversity. EOE, including disability/ vets![image](https://user-images.githubusercontent.com/8952481/117049670-73c7ea80-ace2-11eb-9093-50dc4220ff0e.png)
 
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
