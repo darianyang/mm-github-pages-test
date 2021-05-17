@@ -101,7 +101,7 @@ current_group:
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Charles Bobcheck, BS in Chemistry (2012).  
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
-* Andrew Bellesis, MS in Biophysics (2020), now a research specialist at U. Pittsburgh School of Public Health.  
+* Andrew Bellesis, MS in Biophysics (2020), now a Research Associate at BlueSphere Bio.  
 * Lewis Baker, BS in Applied Math (2015), now a graduate student in mathematics at UC Boulder.  
 
 
