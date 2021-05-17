@@ -90,7 +90,7 @@ current_group:
 * AJ Pratt, BS in Chemistry from Frostburg State University (2011), now a scientifc programmer at Hewlett Packard Enterprises.
 * Brandon Mills, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Scientist at Schrodinger.  
-* Parmila Kafley, BS in chemistry & political science (2020).  
+* Parmila Kafley, BS in chemistry & political science (2020), now a graduate student in chemistry at Temple University.  
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
 * Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
