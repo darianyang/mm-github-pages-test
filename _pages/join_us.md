@@ -12,7 +12,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
-We have an opening for one postdoctoral researcher in computational biophysics. Details can be found [here] (https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobdetail.ftl?job=21003106&tz=GMT-04%3A00&tzname=America%2FNew_York&lang=en#.YL_JTXmg_6U.gmail).
+We have an opening for one postdoctoral researcher in computational biophysics. Details can be found [here](https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobdetail.ftl?job=21003106&tz=GMT-04%3A00&tzname=America%2FNew_York&lang=en#.YL_JTXmg_6U.gmail).
 
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
