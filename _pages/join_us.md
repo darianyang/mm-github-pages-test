@@ -12,19 +12,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
 ## Postdocs
-We are pleased to announce an opening for one postdoctoral researcher in computational biophysics. This position will involve developing new weighted ensemble strategies to enable atomistic simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond milliseconds). Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the [WESTPA software](https://westpa.github.io/westpa) with the [Orion Cloud Computing Platform](https://www.eyesopen.com/orion) to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
-
-***Qualifications:***
-* A strong background in chemistry, physics, or related field 
-* Ability to conduct independent research
-* Demonstrated ability to program in Python
-* Strong interpersonal and communication skills
-
-***This position is expected to start in September/October 2021***. The position is funded by NIH and is for one year with the possibility of extension for up to another two years based on mutual interest. 
-
-To apply, please email the following to ltchong AT DOT pitt DOT edu: CV and a cover letter explaining your interest in the position. Please also ask three references to email letters of support to ltchong AT DOT pitt DOT edu. Review of applications will begin immediately and continue until the position is filled. 
-
-The University of Pittsburgh is an Affirmative Action/Equal Opportunity Employer and values equality of opportunity, human dignity and diversity. EOE, including disability/ vets.
+We have an opening for one postdoctoral researcher in computational biophysics. Details can be found [here] (https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobdetail.ftl?job=21003106&tz=GMT-04%3A00&tzname=America%2FNew_York&lang=en#.YL_JTXmg_6U.gmail).
 
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
