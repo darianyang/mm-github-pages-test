@@ -7,7 +7,21 @@ toc_label: "Join Us"
 toc_icon: "user-plus"
 ---
 
-Join us in our scientific adventures! We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds, and applications from women and underrepresented minorities are particularly encouraged.
+Join us in our scientific adventures! We welcome applications from prospective postdocs, graduate students, and undergraduates. We encourage a diversity of backgrounds, and applications from women and underrepresented minorities are particularly encouraged. 
+
+*Our Lab Values*
+
+**Creativity** - We value finding new ways of solving problems while also respecting established methods; encouraging each other to follow their own ideas.
+
+**Adventure** - We are unafraid to learn the most effective models and tools to address questions that excite us and pay special attention to outliers.
+
+**Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
+
+**Rigor** - We value quality over quantity and aim to increase openness, integrity, and reproducibility in research and software. 
+
+**Failure** - We value failures as opportunities for learning and personal growth, noting that many scientific discoveries have been made after countless failed attempts.
+
+**Balance** - We value work/life balance in maintaining both mental and physical health. We do our best to keep our shared work space tidy and clean, respecting our local community. We value the earth and strive to make responsible use of the resources we are granted.
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
