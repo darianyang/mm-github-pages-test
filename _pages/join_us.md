@@ -13,7 +13,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Adventure** - We are unafraid to consider unfamiliar applications and to learn new concepts/tools for solving problems that excite us.
 
-**Creativity** - We encourage each other to do blue sky thinking and to follow our own ideas.
+**Creativity** - We encourage blue sky thinking and following your own ideas.
 
 **Rigor** - We value quality over quantity and maintain openness, integrity, and reproducibility in research, paying special attention to outliers.
 
