@@ -19,7 +19,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Persistence** - We value failures as opportunities for learning, noting that many scientific discoveries are made after countless failed attempts.
 
-**Mentorship** - We provide the mentorship and resources to support each person in realizing their full potential. We maintain a practice of constructive feedback, including specific solutions or strategies whenever possible. 
+**Mentorship** - We provide the mentorship, community, and resources to support each person in realizing their full potential. 
 
 **Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
 
