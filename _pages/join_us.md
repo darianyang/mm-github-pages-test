@@ -11,15 +11,17 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 *Our Lab Values*
 
+**Adventure** - We are unafraid to learn the most effective models and tools to address questions that excite us.
+
 **Creativity** - We value finding new ways of solving problems while also respecting established methods; encouraging each other to follow their own ideas.
 
-**Adventure** - We are unafraid to learn the most effective models and tools to address questions and pay special attention to outliers.
+**Rigor** - We value quality over quantity and work to increase openness, integrity, and reproducibility in research. We pay special attention to outliers.
+
+**Persistence** - We value failures as opportunities for learning and personal growth, noting that many important scientific discoveries have been made after countless failed attempts.
+
+**Mentorship** - We provide the resources and mentorship to help each person realize their full potential as an independent researcher. We hone our skills in providing constructive feedback, including specific solutions or strategies whenever possible. 
 
 **Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
-
-**Rigor** - We value quality over quantity and aim to increase openness, integrity, and reproducibility in research and software. 
-
-**Failure** - We value failures as opportunities for learning and personal growth, noting that many scientific discoveries have been made after countless failed attempts.
 
 **Balance** - We value work/life balance in maintaining both mental and physical health. We do our best to keep our shared work space tidy and clean, respecting our local community. We value the earth and strive to make responsible use of the resources we are granted.
 
