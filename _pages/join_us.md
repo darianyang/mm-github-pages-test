@@ -13,7 +13,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Adventure** - We are unafraid to learn the most effective models and tools to address questions that excite us.
 
-**Creativity** - We value finding new ways of solving problems while also respecting established methods; encouraging each other to follow their own ideas.
+**Creativity** - We value new ways of solving problems while respecting established methods, encouraging each other to follow their own ideas.
 
 **Rigor** - We value quality over quantity and maintain openness, integrity, and reproducibility in research, paying special attention to outliers.
 
