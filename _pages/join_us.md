@@ -11,9 +11,9 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 *Our Lab Values*
 
-**Adventure** - We are unafraid to learn the most effective models and tools to address questions that excite us.
+**Adventure** - We are unafraid to learn new ways of solving problems while respecting established techniques.
 
-**Creativity** - We value new ways of solving problems while respecting established methods, encouraging each other to follow their own ideas.
+**Creativity** - We encourage each other to follow our own ideas.
 
 **Rigor** - We value quality over quantity and maintain openness, integrity, and reproducibility in research, paying special attention to outliers.
 
