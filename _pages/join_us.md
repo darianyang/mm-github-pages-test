@@ -15,7 +15,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Creativity** - We value finding new ways of solving problems while also respecting established methods; encouraging each other to follow their own ideas.
 
-**Rigor** - We value quality over quantity and work to increase openness, integrity, and reproducibility in research. We pay special attention to outliers.
+**Rigor** - We value quality over quantity and work to increase openness, integrity, and reproducibility in research, paying special attention to outliers.
 
 **Persistence** - We value failures as opportunities for learning and personal growth, noting that many important scientific discoveries have been made after countless failed attempts.
 
