@@ -23,7 +23,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
 
-**Balance** - We value work/life balance, the earth, and strve to make responsible use of resources we are granted. We do our best to keep our shared work space tidy and clean, respecting our local community. 
+**Balance** - We value work/life balance, the earth, and make responsible use of resources we are granted. We do our best to keep our shared work space tidy and clean, respecting our local community. 
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
