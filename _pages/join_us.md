@@ -43,7 +43,7 @@ The postdoc will develop new weighted ensemble strategies to enable atomistic si
 ***This position can start immediately and until February 2022***. The position is funded by NIH and is for one year with the possibility for renewal. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed.
 
 ## Graduate Students
-Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
+Positions are available for students with interests in computational biophysics or computational chemistry. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
 
 
 [Pitt PhD Program in Chemistry](http://www.chem.pitt.edu/graduate/how-apply)<br>
