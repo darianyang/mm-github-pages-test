@@ -19,9 +19,9 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Persistence** - We value failures as opportunities for learning, noting that many scientific discoveries are made after countless failed attempts.
 
-**Mentorship** - We provide the mentorship, community, and resources to support each person in realizing their full potential. 
+**Mentorship** - We provide the mentorship, community, and resources to support each person in realizing their full potential.
 
-**Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
+**Collaboration** - We enjoy addressing questions that cannot be answered by experiments and collaborating with other labs to validate our efforts and/or create a greater whole. We seek to make science an inclusive, global effort.
 
 **Balance** - We value work/life balance, the earth, and make responsible use of resources we are granted. We do our best to keep our shared work space tidy and clean, respecting our local community. 
 
