@@ -17,7 +17,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Rigor** - We value quality over quantity and maintain openness, integrity, and reproducibility in research, paying special attention to outliers.
 
-**Persistence** - We value failures as opportunities for learning, noting that many scientific discoveries are made after countless failed attempts.
+**Persistence** - We value failures as opportunities for learning, noting that many great discoveries are made after countless failed attempts.
 
 **Mentorship** - We provide the mentorship, community, and resources to support each person in realizing their full potential.
 
