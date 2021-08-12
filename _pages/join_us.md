@@ -32,7 +32,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 ## Postdocs
 We have an opening for one postdoctoral researcher in computational biophysics. To apply, please visit [this site](https://cfopitt.taleo.net/careersection/pitt_faculty_external_pd/jobsearch.ftl?lang=en&portal=24100023232) and enter requisition 21003106 in the keyword search.
 
-This position will involve developing new weighted ensemble strategies to enable atomistic simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond milliseconds). Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the WESTPA software with the Orion Cloud Computing Platform to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
+This position will involve developing new weighted ensemble strategies to enable atomistic simulations of pathways and kinetics for biological processes on pharmaceutically relevant timescales (beyond ms). Applications will involve collaborations with experimental labs to characterize the mechanisms of complex processes such as large-scale protein conformational transitions, allosteric protein (un)binding, and/or (un)folding of protein mimetics. The postdoc may also participate in our collaboration with OpenEye Scientific to integrate the WESTPA software with the Orion Cloud Computing Platform to streamline the execution of large-scale weighted ensemble simulations on Amazon Web Services as well as typical clusters.
 
 Qualifications:
 * Strong background in chemistry, physics, or related field
@@ -40,7 +40,7 @@ Qualifications:
 * Demonstrated ability to program in Python
 * Strong interpersonal and communication skills
 
-This position can start immediately and until February 2022. The position is funded by NIH and is for one year with the possibility for renewal based on mutual interest. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
+This position can start immediately and ***until February 2022***. The position is funded by NIH and is for one year with the possibility for renewal based on mutual interest. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
 
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
