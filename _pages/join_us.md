@@ -40,7 +40,7 @@ Qualifications:
 * Demonstrated ability to program in Python
 * Strong interpersonal and communication skills
 
-This position can start immediately and ***until February 2022***. The position is funded by NIH and is for one year with the possibility for renewal based on mutual interest. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
+**This position can start immediately and until February 2022***. The position is funded by NIH and is for one year with the possibility for renewal based on mutual interest. Candidates must successfully defend their PhD by the start of the position and be conferred their PhD by the end of the term in which they are appointed. The PhD may be in chemistry, physics, or related field. 
 
 ## Graduate Students
 Positions are available for students with interests in the research area of computational biophysics. To be considered for a position, please apply to one of the following graduate programs at the University of Pittsburgh:
