@@ -21,7 +21,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Collaboration** - We enjoy collaborating with other labs to create a greater whole, including the integration of theory with experiment. 
 
-**Diversity** - We seek to make science an inclusive, global effort in all efforts ranging from citing the literature to organizing conferences. We enjoy hosting visitors from all over the world. 
+**Diversity** - We seek to make science a global, inclusive effort in all aspects ranging from citing the literature to organizing conferences to hosting visitors.
 
 **Balance** - We value work/life balance and make responsible use of resources we are granted. We do our best to keep our shared work space tidy for a tidy mind.
 
