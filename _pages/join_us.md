@@ -13,7 +13,7 @@ Join us in our scientific adventures! We welcome applications from prospective p
 
 **Creativity** - We value finding new ways of solving problems while also respecting established methods; encouraging each other to follow their own ideas.
 
-**Adventure** - We are unafraid to learn the most effective models and tools to address questions that excite us and pay special attention to outliers.
+**Adventure** - We are unafraid to learn the most effective models and tools to address questions and pay special attention to outliers.
 
 **Collaboration** - We find joy in collaborating with experimental labs to validate our theoretical efforts and address questions that cannot be answered by experiments. We seek to make science an inclusive, global effort.
 
