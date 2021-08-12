@@ -25,7 +25,7 @@ We welcome applications from prospective postdocs, graduate students, and underg
 
 **Diversity** - We seek to make science a global, inclusive effort in all aspects ranging from hosting visitors to organizing conferences to citing the literature.
 
-**Balance** - We value work/life balance and make responsible use of resources we are granted. We do our best to keep our shared work space clean for a clear mind.
+**Balance** - We value work/life balance and make responsible use of resources we are granted. We do our best to maintain a clean work space for a clear mind.
 
 {% include figure image_path="/assets/images/pittsburgh.jpg" alt="Pittsburgh Panorama" %}
 
