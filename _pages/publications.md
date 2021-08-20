@@ -8,8 +8,8 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
-T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, RS McCool, FL Kearns, JA McCammon, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.*, in press; *bioRxiv* **2021**. \*co-corresponding authors 
-[link](https://www.biorxiv.org/content/10.1101/2021.02.15.431212v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 spike protein.pdf){: .btn .btn--inverse .btn--small}
+T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**. \*co-corresponding authors 
+[link](https://www.nature.com/articles/s41557-021-00758-3){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 s.pdf){: .btn .btn--inverse .btn--small}
 
 AJ DeGrave\*, AT Bogetti\*, and LT Chong. “The RED scheme: Rate-constant estimation from pre-steady state weighted ensemble simulations.” *bioRxiv* **2021**. \*equal authorship 
 [link](https://www.biorxiv.org/content/10.1101/453647v2){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/DeGrave et al. - 2021 - The RED scheme Rate-constant estimation from pre-steady state weighted ensemble simulations.pdf){: .btn .btn--inverse .btn--small}
