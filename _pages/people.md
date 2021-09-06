@@ -63,8 +63,15 @@ current_group:
     alt: "Paul Torrillo"
     title: "Paul Torrillo"
     excerpt: "
-    **Math/Biology Undergraduate Student**<br>
+    **Math/Biology Graduate**<br>
     pat53 AT pitt DOT edu
+    "
+  - image_path: /assets/images/people/RCA.jpg
+    alt: "Rhea Abraham"
+    title: "Rhea Abraham"
+    excerpt: "
+    **Chemistry Undergraduate Student**<br>
+    rca27 AT pitt DOT edu
     "
 ---
 
