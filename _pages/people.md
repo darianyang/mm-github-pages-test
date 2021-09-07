@@ -49,22 +49,8 @@ current_group:
     alt: "Hannah Piston"
     title: "Hannah Piston"
     excerpt: "
-    **Chemistry Graduate**<br>
+    **Pitt Medical Student**<br>
     hep32 AT pitt DOT edu
-    "
-  - image_path: /assets/images/people/POH.jpg
-    alt: "Page Harrison"
-    title: "Page Harrison"
-    excerpt: "
-    **Phys./Comp. Sci. Undergraduate Student**<br>
-    poh8 AT pitt DOT edu
-    "
-  - image_path: /assets/images/people/PAT.jpg
-    alt: "Paul Torrillo"
-    title: "Paul Torrillo"
-    excerpt: "
-    **Math/Biology Graduate**<br>
-    pat53 AT pitt DOT edu
     "
   - image_path: /assets/images/people/RCA.jpg
     alt: "Rhea Abraham"
@@ -87,6 +73,7 @@ current_group:
 * Yiwen Zou, BS in Chemistry (2012), PharmD student at Philadelphia College of Osteopathic Med, now a Specialty Clinical Pharmacist.  
 * David Wang, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree) in Chemistry & Applied Math (2012), Harvard-MIT HST program, now a resident at U. Pittsburgh Medical School.  
 * Erin Walsh (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
+* Paul Torrillo, BS in Molecular Biology & Applied Math (2021), now a math graduate student at MIT. 
 * Jakob Sorkness, BS in Chemistry(2017), [Writer in Residence](https://medium.com/pitt-undergraduate-science-writing), now at Salubris Biotherapeutics.
 * Claire Shao, North Allegheny Senior High School (2019-2020), now an MIT undergraduate.   
 * Joseph Seemiller (2011), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a neurology resident at Geisinger Medical Center.  
@@ -97,12 +84,13 @@ current_group:
 * Brandon Mills, [BPhil](http://www.honorscollege.pitt.edu/bphil-degree)/MS in Chemistry (2014), A&S Fellow, now a Senior Analyst at Accenture Scientific Informatics Services.  
 * Joseph Kaus, BS in Chemistry (2011), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a Senior Scientist at Schrodinger.  
 * Parmila Kafley, BS in chemistry & political science (2020), now a graduate student in chemistry at Temple University.  
+* Page Harrison, BS in comp sci & physics (2021). 
 * Daniel Hatfield, BS in Chemistry (2013), [A&S Fellow](https://www.asundergrad.pitt.edu/research/awards-and-funding#summer-undergraduate-research-awards), now a chemistry graduate student at UCLA.  
 * Natalia Hajlasz, Allderdice High School (2014-2017), [Regeneron High School STS 2017 Finalist](https://student.societyforscience.org/regeneronsts-finalists-2017), now a Harvard undergraduate.
 * Gabriel Garcia-Borrero, BS in Biochemistry (2020), [Brackenridge Fellow](http://www.honorscollege.pitt.edu/summer-brackenridge-fellowships).  
 * Elissa Fink (2017), [TecBio REU](http://www.tecbioreu.pitt.edu/) participant, now a graduate student in biophysics at UCSF.  
 * Max Dudek, BS in Molecular Biology & Computer Science (2021), NSF GRFP Award.  
-* Alex DeGrave, BS in Molecular Biology & Applied Math (2017-2018), now an MD/PhD student at U. Washington.  
+* Alex DeGrave, BS in Molecular Biology & Applied Math (2018), now an MD/PhD student at U. Washington.  
 * Karl Debiec, PhD in Biophysics (2017), Co-advisor: Angela Gronenborn, Mellon Fellow, now a software engineer at Epic Systems.  
 * Kayva Darapuneni (2017), [First Experiences Undergraduate Program](https://www.asundergrad.pitt.edu/research/first-experiences-research) participant.  
 * Charles Bobcheck, BS in Chemistry (2012).  
