@@ -56,7 +56,7 @@ current_group:
     alt: "Rhea Abraham"
     title: "Rhea Abraham"
     excerpt: "
-    **Chemistry Undergraduate Student**<br>
+    **Undergraduate Student**<br>
     rca27 AT pitt DOT edu
     "
 ---
