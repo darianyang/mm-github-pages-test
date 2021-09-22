@@ -90,7 +90,7 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 ## Design of protein conformational switches
 
 AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
-[link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein){: .btn .btn--inverse .btn--small}
+[link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein.pdf){: .btn .btn--inverse .btn--small}
 
 AJ DeGrave, JH Ha, SN Loh, and LT Chong. “Large enhancement of response times of a protein conformational switch by computational design.” *Nat. Commun.* **2018**, 9, 1013. 
 [link](https://www.nature.com/articles/s41467-018-03228-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/DeGrave et al. - 2018 - Large enhancement of response times of a protein c.pdf){: .btn .btn--inverse .btn--small}
