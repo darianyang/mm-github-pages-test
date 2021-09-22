@@ -89,12 +89,14 @@ R Salari and LT Chong. "Desolvation costs of salt bridges across protein binding
 
 ## Design of protein conformational switches
 
+AT Bogetti, MF Presti, SN Loh, and LT Chong. “The Next Frontier for Designing Switchable Proteins: Rational Enhancement of Kinetics.” *J. Phys. Chem. B* **2021**, 125 (32), 9069–9077. 
+[link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04082){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Bogetti et al. - 2021 - The Next Frontier for Designing Switchable Protein){: .btn .btn--inverse .btn--small}
+
 AJ DeGrave, JH Ha, SN Loh, and LT Chong. “Large enhancement of response times of a protein conformational switch by computational design.” *Nat. Commun.* **2018**, 9, 1013. 
 [link](https://www.nature.com/articles/s41467-018-03228-6){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/DeGrave et al. - 2018 - Large enhancement of response times of a protein c.pdf){: .btn .btn--inverse .btn--small}
 
 BM Mills and LT Chong. “Molecular simulations of mutually exclusive folding in a two-domain protein switch.” *Biophys. J.* **2011**, 100, 756. 
 [link](https://doi.org/10.1016/j.bpj.2010.12.3710){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Mills and Chong - 2011 - Molecular Simulations of Mutually Exclusive Foldin.pdf){: .btn .btn--inverse .btn--small}
-
 
 TA Cutler, BM Mills, DJ Lubin, LT Chong, and SN Loh. "Effect of interdomain linker length on an antagonistic folding-unfolding equilibrium between two protein domains." *J. Mol. Biol.* **2009**, 386,  854. 
 [link](http://www.sciencedirect.com/science/article/pii/S0022283608014034){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/protein-switch/Cutler et al. - 2009 - Effect of Interdomain Linker Length on an Antagoni.pdf){: .btn .btn--inverse .btn--small}
