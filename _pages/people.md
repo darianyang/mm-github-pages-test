@@ -59,6 +59,13 @@ current_group:
     **Undergraduate Student**<br>
     rca27 AT pitt DOT edu
     "
+  - image_path: /assets/images/people/MLS.jpg
+    alt: "Marion Silvestrini"
+    title: "Marion Silvestrini"
+    excerpt: "
+    **Postdoctoral Fellow**<br>
+    starting February 2022
+    " 
 ---
 
 # Principal Investigator
