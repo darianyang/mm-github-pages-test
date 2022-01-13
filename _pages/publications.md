@@ -8,6 +8,12 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
+S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *chemRxiv* **2021**.
+[link](https://doi.org/10.26434/chemrxiv-2021-mmv2k){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2021 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
+
+JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *bioRxiv* **2021**. \*equal authorship 
+[link](https://doi.org/10.1101/2021.12.05.471280){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2021 - WESTPA 2.0 High-performance upgrades for weighted.pdf){: .btn .btn--inverse .btn--small}
+
 T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**. \*co-corresponding authors 
 [link](https://www.nature.com/articles/s41557-021-00758-3){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 s.pdf){: .btn .btn--inverse .btn--small}
 
