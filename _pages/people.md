@@ -24,6 +24,13 @@ lillian:
     [CV](/assets/pdf/LTCcvShort.pdf){: .btn .btn--inverse .btn--small}
     "
 current_group:
+  - image_path: /assets/images/people/MLS.jpg
+    alt: "Marion Silvestrini"
+    title: "Marion Silvestrini"
+    excerpt: "
+    **Postdoctoral Fellow**<br>
+    mls333 AT pitt DOT edu
+    " 
   - image_path: /assets/images/people/ATB.jpg
     alt: "Anthony Bogetti"
     title: "Anthony Bogetti"
@@ -59,13 +66,6 @@ current_group:
     **Undergraduate Student**<br>
     rca27 AT pitt DOT edu
     "
-  - image_path: /assets/images/people/MLS.jpg
-    alt: "Marion Silvestrini"
-    title: "Marion Silvestrini"
-    excerpt: "
-    **Postdoctoral Fellow**<br>
-    starting February 2022
-    " 
 ---
 
 # Principal Investigator
@@ -104,15 +104,3 @@ current_group:
 * Monica Bhattacharjee, BS in Chemistry (2009), medical student at the U. Maryland at Baltimore. 
 * Andrew Bellesis, MS in Biophysics (2020), now a Research Associate at BlueSphere Bio.  
 * Lewis Baker, BS in Applied Math (2015), now a graduate student in mathematics at UC Boulder.  
-
-
-
-
-
-
-
-
-
-
-
-
