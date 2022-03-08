@@ -5,7 +5,7 @@ title: The Chong Lab Research Group
 #layout: single
 #classes: wide
 #header:
-#image: /assets/images/people/Group2020.jpg
+#image: /assets/images/people/Group2022.jpg
 toc: true
 toc_sticky: true
 toc_icon: "users"
