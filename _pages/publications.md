@@ -8,7 +8,7 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
-JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, \*equal authorship 
+JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18, 2, 638-649 \*equal authorship 
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2021 - WESTPA 2.0 High-performance upgrades for weighted.pdf){: .btn .btn--inverse .btn--small}
 
 S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *chemRxiv* **2021**.
@@ -71,6 +71,8 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 
 ## Development/evaluation of biomolecular force fields and water models
+DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022** 
+[link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small}
 
 AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
 [link](https://aip.scitation.org/doi/10.1063/5.0019054){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Bogetti et al. - 2020 - A twist in the road less traveled The AMBER ff15i.pdf){: .btn .btn--inverse .btn--small}
