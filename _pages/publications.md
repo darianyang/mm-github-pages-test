@@ -8,8 +8,8 @@ toc_label: "Publications"
 
 ## Weighted ensemble simulation of rare events
 
-JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18, 2, 638-649 \*equal authorship 
-[link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2021 - WESTPA 2.0 High-performance upgrades for weighted.pdf){: .btn .btn--inverse .btn--small}
+JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. \*equal authorship 
+[link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2022 - WESTPA 2.0 High-Performance Upgrades for Weighted.pdf){: .btn .btn--inverse .btn--small}
 
 S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *chemRxiv* **2021**.
 [link](https://doi.org/10.26434/chemrxiv-2021-mmv2k){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2021 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
