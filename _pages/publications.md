@@ -72,7 +72,7 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 ## Development/evaluation of biomolecular force fields and water models
 DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022** 
-[link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small}
+[link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
 
 AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
 [link](https://aip.scitation.org/doi/10.1063/5.0019054){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Bogetti et al. - 2020 - A twist in the road less traveled The AMBER ff15i.pdf){: .btn .btn--inverse .btn--small}
