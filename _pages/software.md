@@ -11,8 +11,14 @@ We develop and maintain the Weighted Ensemble Simulation Toolkit with Paralleliz
 
 We have also developed open-source software for the following:
 
-[Configuring plots based on data from both MD simulation and NMR spectroscopy](https://github.com/KarlTDebiec "Ramaplot and MolDynPlot")
+[Configuring plots based on data from both MD simulation and NMR spectroscopy](https://github.com/chonglab-pitt/MolDynPlot "MolDynPlot")
 
-[Testing the compatibility of color schemes with various types of color blindness](https://github.com/ajd98/misc_simulation_tools "Misc Simulation Tools")
+[Ramachandran plots from umbrella sampling MD simulations](https://github.com/chonglab-pitt/Ramaplot "Ramaplot")
 
-[A Python library for kernel density estimation in n-dimensional space, including support for weighted samples](https://github.com/ajd98/kde "KDE")
+[Testing the compatibility of color schemes with various types of color blindness](https://github.com/chonglab-pitt/misc_simulation_tools "Misc Simulation Tools")
+
+[A Python library for kernel density estimation in n-dimensional space, including support for weighted samples](https://github.com/chonglab-pitt/kde "KDE")
+
+[Calculation of fluorine relaxation rates from MD simulations](https://github.com/chonglab-pitt/fluorelax "fluorelax")
+
+[Our other software projects can be found on the Chong Lab github repository](https://github.com/chonglab-pitt "chonglab-pitt")
