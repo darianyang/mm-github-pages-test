@@ -11,8 +11,8 @@ toc_label: "Publications"
 JD Russo\*, S Zhang\*, JMG Leung\*, AT Bogetti\*, JP Thompson, AJ DeGrave, PA Torrillo, AJ Pratt, KF Wong, J Xia, J Copperman, JL Adelman, MC Zwier, DN LeBard, DM Zuckerman, LT Chong. "WESTPA 2.0: High-Performance Upgrades for Weighted Ensemble Simulations and Analysis of Longer-Timescale Applications." *J. Chem. Theory Comput.* **2022**, 18 (2), 638–649. \*equal authorship 
 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01154){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Russo et al. - 2022 - WESTPA 2.0 High-Performance Upgrades for Weighted.pdf){: .btn .btn--inverse .btn--small}
 
-S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *chemRxiv* **2021**.
-[link](https://doi.org/10.26434/chemrxiv-2021-mmv2k){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2021 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
+S Zhang, JP Thompson, J Xia, AT Bogetti, F York, AG Skillman, LT Chong, DN LeBard. "Mechanistic Insights into Passive Membrane Permeability of Drug-Like Molecules from a Weighted Ensemble of Trajectories." *J. Chem. Inf. Model* **2022**.
+[link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01540){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Zhang et al. - 2022 - Mechanistic Insights into Passive Membrane Permeab.pdf){: .btn .btn--inverse .btn--small}
 
 T Sztain, S Ahn, AT Bogetti, L Casalino, JA Goldsmith, E Seitz, RS McCool, FL Kearns, F Acosta-Reyes, S Maji, G Mashayekhi, JA McCammon, A Ourmazd, J Frankm, JS McLellan, LT Chong\*, and RE Amaro\*. “A glycan gate controls opening of the SARS-CoV-2 spike protein.” *Nat. Chem.* **2021**. \*co-corresponding authors 
 [link](https://www.nature.com/articles/s41557-021-00758-3){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/weighted-ensemble/Sztain et al. - 2021 - A glycan gate controls opening of the SARS-CoV-2 s.pdf){: .btn .btn--inverse .btn--small}
@@ -71,7 +71,7 @@ MC Zwier and LT Chong. “Reaching biological timescales with all-atom molecular
 
 
 ## Development/evaluation of biomolecular force fields and water models
-DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022** 
+DT Yang, AM Gronenborn, and LT Chong. "Development and Validation of Fluorinated, Aromatic Amino Acid Parameters for Use with the AMBER ff15ipq Protein Force Field" *J. Phys. Chem. A* **2022**, 126, 2286-2297. 
 [link](https://doi.org/10.1021/acs.jpca.2c00255){: .btn .btn--inverse .btn--small} [pdf](/assets/pdf/force-field/Yang et al. 2022 - 19F ff15ipq.pdf){: .btn .btn--inverse .btn--small} [code](https://github.com/chonglab-pitt/ff15ipq-19F){: .btn .btn--inverse .btn--small}
 
 AT Bogetti\*, HE Piston\*, JMG Leung\*, CC Cabalteja, DT Yang, AJ DeGrave, KT Debiec, DS Cerutti, DA Case, WS Horne, and LT Chong. "A twist in the road less traveled: The AMBER ff15ipq-m force field for protein mimetics." *J. Chem. Phys.* **2020**, 153(6), 064101. \*equal authorship 
