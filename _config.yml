@@ -82,10 +82,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ChongLabPitt"
+      url: "https://twitter.com/ltchong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ltchong"
+      url: "https://github.com/chonglab-pitt"
 
 # HTML Compression
 # - http://jch.penibelst.de/
